@@ -79,7 +79,6 @@
     <Content Include="js\default.js" />
     <Content Include="css\default.css" />
     <None Include="MxLadas_StoreKey.pfx" />
-    <None Include="Package.StoreAssociation.xml" />
     <None Include="MxLadas_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
