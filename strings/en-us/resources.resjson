@@ -1,0 +1,10 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+    "appName"               : "Mexican Long Distance Codes",
+    "instructions"          : "Write the code (i.e. 555) or locality (i.e. Durango)",
+    "loading"               : "Loading...",
+    "search"                : "Search",
+    "results"               : "Results",
+    "appDescription"        : "So, you've just seen your call-id log and found a strange number. \"Hmmm... '+52', it's from Mexico... Could be uncle Pedro, from Zacatecas. Or maybe my cousin Juan who's visiting Mexico City.\"\nEnter 'Mexican Long Distance Codes'! This apps provides you:\n* 2-way search - Only know the code? That's fine. Only know the city? That's fine too!\n* Partial search - Some cities have 2, 3 or 4 digits in the long distance code. Suffer no more! Just put part of it and we'll take care of the rest. Was it 'Durango', 'Victoria de Durango'? Write 'Dur' and you're good to go!\n* No ads, no limits, no ugly stuff. Just enjoy your new Win8 machine and this app. Thank you! Support - http://facebook.com/chentadas"
+}

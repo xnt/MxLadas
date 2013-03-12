@@ -1,0 +1,12227 @@
+﻿[
+	{
+		"Locality": "Abasolo del Valle,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Abasolo,Coah.",
+		"Code": "866"
+	},
+	{
+		"Locality": "Abasolo,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Abasolo,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Abasolo,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Abraham González,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Acacoyagua,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Acámbaro,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Acambay,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Acamilpa,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Acamixtla,Gro.",
+		"Code": "762"
+	},
+	{
+		"Locality": "Acanceh,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Acapetahua,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Acapetlahuaya,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Acaponeta,Nay.",
+		"Code": "325"
+	},
+	{
+		"Locality": "Acapulco,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Acatic,Jal.",
+		"Code": "378"
+	},
+	{
+		"Locality": "Acatlán de Juárez,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Acatlán de Osorio,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Acatlán de Pérez Figueroa,Oax.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Acatlán,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Acatlán,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Acatzingo,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Acaxochitlán,Hgo.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Acaxtlahuacán de Albino Zertuche,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Acayucan,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Aconchi,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Acopinalco del Peñón,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Actopan,Hgo.",
+		"Code": "772"
+	},
+	{
+		"Locality": "Actopan,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Acuchillán del Progreso,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Acuitzeramo,Mich.",
+		"Code": "471"
+	},
+	{
+		"Locality": "Acuitzio del Canje,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Acula,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Aculco,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Acultzingo,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Achotal,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Adjuntas del Río (Las Adjunts),Gto.",
+		"Code": "418"
+	},
+	{
+		"Locality": "Adolfo López Mateos (Chamal Nuevo),Tamps",
+		"Code": "832"
+	},
+	{
+		"Locality": "Adolfo López Mateos (El Jahuara ),Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "Adolfo Ruiz Cortines,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Agostitlán,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Agua Blanca Iturbide,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Agua Blanca,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Agua Buena,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Agua Caliente de Garate,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "Agua Dulce Papantla,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Agua Dulce,Ver.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Agua Prieta,Son.",
+		"Code": "633"
+	},
+	{
+		"Locality": "Agua Verde,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "Agualeguas,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "Aguaruto,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Aguascalientes,Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Aguilera,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Aguililla,Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Agujita,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "Ahome,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Ahuacatitlán Centro,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Ahuacatlán,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Ahuacuotzingo,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Ahualulco,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Ahualulco,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Ahuazotepec,Pue.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Ahuehuepan,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Ajacuba,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Ajalpan,Pue.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Ajijic,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Akil,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Akumal,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Alamo Temapache,Ver.",
+		"Code": "765"
+	},
+	{
+		"Locality": "Alamos,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Alcozauca de Guerrero,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Alfajayucan,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Alfonso G. Calderón (Poblado 7),Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Alfonso G. Calderón Velarde,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Alfredo B. Bonfil,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Alfredo B. Bonfil,Camp.",
+		"Code": "981"
+	},
+	{
+		"Locality": "Alfredo V. Bonfil,Q.Roo",
+		"Code": "998"
+	},
+	{
+		"Locality": "Alfredo V. Bonfil,Tamps.",
+		"Code": "868"
+	},
+	{
+		"Locality": "Almagres,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Almoloya de Alquisiras,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Almoloya de Juárez,Méx.",
+		"Code": "725"
+	},
+	{
+		"Locality": "Almoloya de las Granadas,Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "Almoloya,Hgo.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Alpoyeca,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Altamira,Tamps.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Altamirano,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Altar,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Altata,Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "Alto Lucero,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Altotonga,Ver.",
+		"Code": "226"
+	},
+	{
+		"Locality": "Altzayanca,Tlax.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Alvarado,Ver.",
+		"Code": "297"
+	},
+	{
+		"Locality": "Alvaro Obregón,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Alvaro Obregón,Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Alvaro Obregón,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Allende,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Allende,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Amacueca,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Amacuzac,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Amanalco de Becerra,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Amapa,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Amarillas de Esparza (Amarillas),Ags.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Amartillán,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Amatepec,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Amatitán,Jal.",
+		"Code": "374"
+	},
+	{
+		"Locality": "Amatlán de Cañas,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Amatlán,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Amayuca,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Amazcala,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Amealco,Qro.",
+		"Code": "448"
+	},
+	{
+		"Locality": "Ameca,Jal.",
+		"Code": "375"
+	},
+	{
+		"Locality": "Amecameca,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Ameche,Gto.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Amozoc,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Amuco de la Reforma,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Anacleto Canabal 1a. Sección,Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Anáhuac,Tamps.",
+		"Code": "894"
+	},
+	{
+		"Locality": "Anáhuac,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Angamacutiro,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Angangueo,Mich.",
+		"Code": "715"
+	},
+	{
+		"Locality": "Angel Rosario Cabada,Ver.",
+		"Code": "284"
+	},
+	{
+		"Locality": "Angostura,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Anonas,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Antiguo Morelos,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Anton Lizardo,Ver.",
+		"Code": "297"
+	},
+	{
+		"Locality": "Antonio Amaro,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Antonio Escobedo,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Antunez,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Apan,Hgo.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Apango,Gro.",
+		"Code": "754"
+	},
+	{
+		"Locality": "Apaseo El Alto,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "Apaseo El Grande,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "Apatzingán,Mich.",
+		"Code": "453"
+	},
+	{
+		"Locality": "Apaxco,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "Apaxtla de Castrejón,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Apizaco,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Aporo,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Apozol,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Apulco,Zac.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Aquiles Serdán (San Fernando),Tab.",
+		"Code": "936"
+	},
+	{
+		"Locality": "Aquismón,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Aramberri,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Arandas,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Arandas,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "Aratichanguio,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Arcabuz,Tamps.",
+		"Code": "897"
+	},
+	{
+		"Locality": "Arcelia,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Areponapuchi,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Ario de Rayón,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "Ario de Rosales,Mich.",
+		"Code": "422"
+	},
+	{
+		"Locality": "Arivechi,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Arizpe,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Arperos,Gto.",
+		"Code": "473"
+	},
+	{
+		"Locality": "Arreguín de Abajo,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Arriaga,Chis.",
+		"Code": "966"
+	},
+	{
+		"Locality": "Arroyo Grande,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Arroyo Hondo,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Arroyo Seco,Qro.",
+		"Code": "487"
+	},
+	{
+		"Locality": "Arteaga,Coah.",
+		"Code": "844"
+	},
+	{
+		"Locality": "Arteaga,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Asientos,Ags.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Asunción Ixtaltepec,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Asunción Nochixtlán,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Atacheo de Regalado,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "Atemajac de Brizuela,Jal.",
+		"Code": "326"
+	},
+	{
+		"Locality": "Atenango del Río,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Atencingo,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Atengo,Jal.",
+		"Code": "349"
+	},
+	{
+		"Locality": "Atenguillo,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Atenquique,Jal.",
+		"Code": "371"
+	},
+	{
+		"Locality": "Atequiza,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Aticama,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Atil,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Atitalaquia,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Atlacomulco,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Atlapexco,Hgo.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Atlatlahuca,Méx.",
+		"Code": "717"
+	},
+	{
+		"Locality": "Atlatlahucán,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Atliaca,Gro.",
+		"Code": "754"
+	},
+	{
+		"Locality": "Atlixco,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "Atlixtac,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Atolinga,Zac.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Atongo de Abajo,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Atotonilco (santuario),Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "Atotonilco de Tula,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Atotonilco El Alto,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Atotonilco El Grande,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Atoyac de Alvarez,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Atoyac,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Atoyatempan,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Atzitzintla,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "Autlán,Jal.",
+		"Code": "317"
+	},
+	{
+		"Locality": "Axochiapan,Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Axotlán,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Axtla de Terrazas,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Ayoquezco de Aldama,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Ayotlán,Jal.",
+		"Code": "345"
+	},
+	{
+		"Locality": "Ayotoxco de Guerrero,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Ayutla (San Felipe Ayutla),Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Ayutla de los Libres,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Ayutla,Jal.",
+		"Code": "316"
+	},
+	{
+		"Locality": "Azoyu,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Baborigame,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Baca,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Bacadehuachi,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Bacalar,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Bacame Nuevo,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Bacerac,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Bacoachi,Son.",
+		"Code": "645"
+	},
+	{
+		"Locality": "Bacobampo,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Bacum,Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Bachiniva,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Bachoco,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Bachomobampo Número Dos,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Badiraguato,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Bagojo Colectivo Emiliano Zapata,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Bahía Bufadero,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Bahía de Huatulco(crucesita),Oax.",
+		"Code": "958"
+	},
+	{
+		"Locality": "Bahía de Kino,Son.",
+		"Code": "662"
+	},
+	{
+		"Locality": "Bahía Tortugas,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Bajamar,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Bajío de Bonillas,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "Bajío de San José,Jal.",
+		"Code": "475"
+	},
+	{
+		"Locality": "Bajos de Chila,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Bajos del Ejido,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "Balancán,Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "Banamichi,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Banderilla,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Barra de Navidad,Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "Barra Vieja,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Barranca de Otates,Jal.",
+		"Code": "326"
+	},
+	{
+		"Locality": "Barranca de Santa Clara (Barranca de Enmedio),Jal.",
+		"Code": "326"
+	},
+	{
+		"Locality": "Barrio El Rosario,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Barrio La Soledad,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Base Aérea Militar No. 5,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Batopilas,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Baviacora,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Bavispe,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Becal,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Belén del Refugio,Jal.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Bella Vista del Río,Qro.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Bellavista,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Bellavista,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "Benemérito Juárez (Palo Gacho),Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "Benito Juárez (Mpio.B. Juárez),,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Benito Juárez (Mpio.Buenaven,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Benito Juárez (Mpio.Sombrerete),Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Benito Juárez (San Carlos),Tab.",
+		"Code": "936"
+	},
+	{
+		"Locality": "Benito Juárez (Tecolotes),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Benito Juárez,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Benito Juárez,Sin.",
+		"Code": "673"
+	},
+	{
+		"Locality": "Benito Juárez,Tlax.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Benjamin Hill,Son.",
+		"Code": "641"
+	},
+	{
+		"Locality": "Bermejillo,Dgo.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Berriozabal,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Betania,Jal.",
+		"Code": "345"
+	},
+	{
+		"Locality": "Betulia,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "Boca de Camichin,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Boca del Monte,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Boca del Río,Ver.",
+		"Code": "229"
+	},
+	{
+		"Locality": "Bocoyna,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Bochil,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Bomintzha,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Boquerón 3a. Sección (Guanal),Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Boquilla de Arriba,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Boye,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Buaysiacobe,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Bucerías,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Buctzotz,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Buena Vista,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Buenavista de Cortés,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Buenavista de Cuellar,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Buenavista Tomatlán,Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Buenavista,Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "Buenavista,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Buenavista,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Buenos Aires(Zinacántal),Chis.",
+		"Code": "964"
+	},
+	{
+		"Locality": "Buenos Aires,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Buenos Aires,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Burgos,Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "Bustamante,N.L.",
+		"Code": "829"
+	},
+	{
+		"Locality": "Cabañas Juluapan (Los Almendros),Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "Cabeza de Toro,Chis.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Cabo del Sol,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Cabo Real,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Cabo San Lucas,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Caborca,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Cacahoatán,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Cacalchen,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Cadereyta,N.L.",
+		"Code": "828"
+	},
+	{
+		"Locality": "Cadereyta,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Caimanero,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Cajititlán,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Calderitas,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Calera de Víctor Rosales,Zac.",
+		"Code": "478"
+	},
+	{
+		"Locality": "Caleras de Ameche,Gto.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Calimaya de Díaz González,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Calipan,Pue.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Calixtlahuaca,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Calkini,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Calmeca (San Juan Calmeca),Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Calnali,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Calpulalpan,Tlax.",
+		"Code": "749"
+	},
+	{
+		"Locality": "Caltimacán,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "Calvillo,Ags.",
+		"Code": "495"
+	},
+	{
+		"Locality": "Calzada del Tepozán (El Tepozán),Gto.",
+		"Code": "432"
+	},
+	{
+		"Locality": "Camalu,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Camarón de Tejeda,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Camotlán de Miraflores,Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "Campamento Sarh,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Campeche,Camp.",
+		"Code": "981"
+	},
+	{
+		"Locality": "Campo 303,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Campo 305 ( Jagueyes ),Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Campo Acosta,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Campo Balbuena,Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "Campo Cinco (La Honda),Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Campo Cuichapa (Mpio. Cuichapa),Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Campo Diecisiete (La Honda),Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Campo Menonita Número 106,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Militar N. 37B (El Cabi),Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Campo Numero Ciento Uno Viejo,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Número Cientosiete,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Número Ocho,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Número Seis y Medio B,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Número Veinte,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Campo Número Veintidós,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Canalejas,Méx.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Cananea,Son.",
+		"Code": "645"
+	},
+	{
+		"Locality": "Canatlán,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Cancún,Q.Roo",
+		"Code": "998"
+	},
+	{
+		"Locality": "Candela,Coah.",
+		"Code": "873"
+	},
+	{
+		"Locality": "Candelaria,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Canelas,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Cansahcab,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Cánticas,Ver.",
+		"Code": "921"
+	},
+	{
+		"Locality": "Canutillo,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Cañada de Caracheo,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Cañada del Tabaco,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Cañadas de Obregón,Jal.",
+		"Code": "431"
+	},
+	{
+		"Locality": "Cañitas de Felipe Pescador,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Cap. Felipe Castellanos (San Pedro),Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "Capacho,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Capardillas (Rancho Santa Lugarda),Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Capilla de Guadalupe,Jal.",
+		"Code": "378"
+	},
+	{
+		"Locality": "Capilla de Milpillas (Milpillas),Jal.",
+		"Code": "378"
+	},
+	{
+		"Locality": "Carácuaro,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Carapán,Mich.",
+		"Code": "355"
+	},
+	{
+		"Locality": "Carbo,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Cárdenas,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "Cárdenas,Tab.",
+		"Code": "937"
+	},
+	{
+		"Locality": "Careyes,Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "Carichi,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Carlos A. Carrillo (San Cristóbal),Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Carmen,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Carrizal Grande,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Casa Blanca,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Casa de Janos,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Casas Grandes,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Casas,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Casimiro Castillo,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Casitas,Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "Castaños,Coah.",
+		"Code": "866"
+	},
+	{
+		"Locality": "Castillo de Teayo,Ver.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Catalinas (Francisco Villa),Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Catazaja,Chis.",
+		"Code": "916"
+	},
+	{
+		"Locality": "Catemaco,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Caucel,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Caurio de Guadalupe (Cabrio),Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Cazones de Herrera,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Ceballos,Dgo.",
+		"Code": "629"
+	},
+	{
+		"Locality": "Cedral,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Celaya,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Celaya,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Celestun,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Cenobio Moreno (Las Colonias),Mich.",
+		"Code": "453"
+	},
+	{
+		"Locality": "Cenotillo,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Cerano (San Juan Cerano),Gto.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Cerralvo,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "Cerrillos (Campo 35),Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Cerrito Colorado,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Cerritos de Villa de Pozos,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Cerritos,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Cerro Azul,Ver.",
+		"Code": "785"
+	},
+	{
+		"Locality": "Cerro Colorado,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Cerro de Ortega,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Cerro Gordo (San Rafael),Gto.",
+		"Code": "464"
+	},
+	{
+		"Locality": "Cibuta,Son.",
+		"Code": "631"
+	},
+	{
+		"Locality": "Ciénaga de Flores,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Ciénaga de Nuestra Señora de Guadalupe,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Ciénaga Grande,Ags.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Cieneguillas,Méx.",
+		"Code": "725"
+	},
+	{
+		"Locality": "Cihuatlán,Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "Cintalapa,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Citala,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Citlaltepec,Ver.",
+		"Code": "785"
+	},
+	{
+		"Locality": "Ciudad Acuña,Coah.",
+		"Code": "877"
+	},
+	{
+		"Locality": "Ciudad Altamirano,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Ciudad Anáhuac,N.L.",
+		"Code": "873"
+	},
+	{
+		"Locality": "Ciudad Apodaca,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Ciudad Benito Juárez,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Ciudad Camargo,Chih.",
+		"Code": "648"
+	},
+	{
+		"Locality": "Ciudad Camargo,Tamps.",
+		"Code": "891"
+	},
+	{
+		"Locality": "Ciudad Cardel,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Ciudad Constitución,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Ciudad Cuauhtémoc,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Ciudad Cuauhtémoc,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Ciudad Cuauhtémoc,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Ciudad de Armería,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Ciudad de Huajuapam de León,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Ciudad de México, D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ciudad de Villa de Alvarez,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Ciudad del Carmen,Camp.",
+		"Code": "938"
+	},
+	{
+		"Locality": "Ciudad del Maíz,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Ciudad Delicias,Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Ciudad General Escobedo,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Ciudad Guzmán,Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "Ciudad Hidalgo,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Ciudad Hidalgo,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Ciudad Jerez de García Salinas,Zac.",
+		"Code": "494"
+	},
+	{
+		"Locality": "Ciudad Jiménez,Chih.",
+		"Code": "629"
+	},
+	{
+		"Locality": "Ciudad Juárez,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Ciudad Lázaro Cárdenas,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Ciudad Lerdo,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Ciudad López Mateos,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ciudad Madera,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Ciudad Madero,Tamps.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Ciudad Mante,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Ciudad Manuel Doblado,Gto.",
+		"Code": "432"
+	},
+	{
+		"Locality": "Ciudad Mendoza,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Ciudad Mier,Tamps.",
+		"Code": "897"
+	},
+	{
+		"Locality": "Ciudad Miguel Alemán,Tamps.",
+		"Code": "897"
+	},
+	{
+		"Locality": "Ciudad Morelos (Cuervos),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ciudad Nezahualcoyotl,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ciudad Obregón,Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Ciudad Quetzalcoatl,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Ciudad Sahagún,Hgo.",
+		"Code": "791"
+	},
+	{
+		"Locality": "Ciudad Santa Catarina,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Ciudad Satélite del Norte,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Ciudad Serdán,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "Ciudad Valles,S.L.P.",
+		"Code": "481"
+	},
+	{
+		"Locality": "Ciudad Victoria,Tamps.",
+		"Code": "834"
+	},
+	{
+		"Locality": "Club de Golf Santa Anita,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Coacoatzintla,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Coacoyul,Gro.",
+		"Code": "755"
+	},
+	{
+		"Locality": "Coacoyula de Alvarez,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Coahuayana de Hidalgo,Mich.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Coahuayana Viejo,Mich.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Coajomulco,Mor.",
+		"Code": "739"
+	},
+	{
+		"Locality": "Coalcoman,Mich.",
+		"Code": "424"
+	},
+	{
+		"Locality": "Coamiles,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Coatepec Harinas,Méx.",
+		"Code": "723"
+	},
+	{
+		"Locality": "Coatepec,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Coatepec,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Coatetelco,Mor.",
+		"Code": "737"
+	},
+	{
+		"Locality": "Coatlán del Río,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Coatzacoalcos,Ver.",
+		"Code": "921"
+	},
+	{
+		"Locality": "Coatzingo,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Coatzintla,Ver.",
+		"Code": "782"
+	},
+	{
+		"Locality": "Cocotitlán,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Cocula,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Cocula,Jal.",
+		"Code": "377"
+	},
+	{
+		"Locality": "Coeneo de la Libertad,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Cofradía de Suchitlán,Col.",
+		"Code": "318"
+	},
+	{
+		"Locality": "Cofradía,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Cohuibampo,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Cojumatlán,Mich.",
+		"Code": "381"
+	},
+	{
+		"Locality": "Colesio,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Colima,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Colipa,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Colombia,N.L.",
+		"Code": "867"
+	},
+	{
+		"Locality": "Colon,Qro.",
+		"Code": "419"
+	},
+	{
+		"Locality": "Colonia 18 de Marzo,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Colonia 28 de Mayo (Santa Rosa),Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Colonia Agricola Independencia,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Colonia Agrícola México (Plamitas),Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Colonia Alvaro Obregón (Rubio),Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Colonia Anáhuac,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Colonia Benito García (El Zorrillo),B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Colonia Campesina,Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Colonia Dr. Gustavo Baz,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Colonia El Meco,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Colonia El Tajo,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Colonia Gonzalez Ortega,Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Colonia Hidalgo,Dgo.",
+		"Code": "618"
+	},
+	{
+		"Locality": "Colonia Irrigación,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Colonia Jecopaco,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Colonia Juárez,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Colonia La Puerta,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Colonia Le Barón,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Colonia Madero (Madero),Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Colonia Madero,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Colonia Manuel González,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Colonia Nuevo Morelos,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Colonia Piloto,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Colonia Soconusco,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Colonia Vicente Guerrero,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Colonia Yucatán,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Colorines,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Colotlan,Jal.",
+		"Code": "499"
+	},
+	{
+		"Locality": "Colotlipa,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Colucán (San Lucas Colucán),Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Comala,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Comalcalco,Tab.",
+		"Code": "933"
+	},
+	{
+		"Locality": "Comalteco,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Comanja,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Comanjilla,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "Comitán de Domínguez,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Comoapan,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Comonfort,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Compostela,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Conca,Qro.",
+		"Code": "487"
+	},
+	{
+		"Locality": "Concepción de Buenos Aires,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Concepción del Oro,Zac.",
+		"Code": "842"
+	},
+	{
+		"Locality": "Concordia,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "Conduacán,Tab.",
+		"Code": "914"
+	},
+	{
+		"Locality": "Coneto de Comonfort,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Congregación Calles,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Conkal,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Contepec,Mich.",
+		"Code": "447"
+	},
+	{
+		"Locality": "Copainala,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Copala,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Copalillo,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Copandaro,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Coquimatlán,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Corazón de María,Chis.",
+		"Code": "967"
+	},
+	{
+		"Locality": "Córdoba,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Corerepe (El Gallo),Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Coronel Gregorio Mendez Magaña,Tab.",
+		"Code": "937"
+	},
+	{
+		"Locality": "Coroneo,Gto.",
+		"Code": "421"
+	},
+	{
+		"Locality": "Corozal,Ver.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Corral Nuevo,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Corralejo de Hidalgo,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Cortazar,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Corte Primero,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Corupo,Mich.",
+		"Code": "452"
+	},
+	{
+		"Locality": "Cosala,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "Cosamaloapan,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Cosautlán de Carvajal,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Coscomatepec,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Cosío,Ags.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Cosoleacaque,Ver.",
+		"Code": "922"
+	},
+	{
+		"Locality": "Costa Rica,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Cotaxtla,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Cotija de la Paz,Mich.",
+		"Code": "394"
+	},
+	{
+		"Locality": "Covadonga,Gto.",
+		"Code": "468"
+	},
+	{
+		"Locality": "Coxcatlán,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Coyame,Chih.",
+		"Code": "626"
+	},
+	{
+		"Locality": "Coyotepec,Méx.",
+		"Code": "593"
+	},
+	{
+		"Locality": "Coyotitán,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "Coyuca de Benitez,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "Coyuca de Catalán,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Coyuquilla Norte,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Coyutla,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Cozumel,Q.Roo",
+		"Code": "987"
+	},
+	{
+		"Locality": "Creel,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Cristóbal Obregón,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "Cruz Azul San Miguel Vindho,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Cruz de Juanacaxtle,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Cruz Grande,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Cruz Quemada,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Cuachila,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Cuahuchichinola,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Cuajinicuilapa,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Cualac,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Cuamío,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Cuanajo,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Cuaracurio,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Cuatrocienegas,Coah.",
+		"Code": "869"
+	},
+	{
+		"Locality": "Cuauhtémoc,Col.",
+		"Code": "318"
+	},
+	{
+		"Locality": "Cuauhtémoc,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Cuautepec de Hinojosa,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Cuautitlán Izcalli,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Cuautitlán,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Cuautitlán,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Cuautla,Jal.",
+		"Code": "316"
+	},
+	{
+		"Locality": "Cuautla,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Cuautlapan,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Cubilete,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Cubiri de Portelas,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Cuéncame de Ceniceros,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Cuerámaro,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Cuernavaca,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Cuetzala del Progreso,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Cuetzalán,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Cuevas de Morales,Gto.",
+		"Code": "352"
+	},
+	{
+		"Locality": "Cuicatlán,Oax.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Cuichapa (Mpio. Moloacan),Ver.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Cuitláhuac,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Cuitzeo del Porvenir,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Culiacán,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Culiacancito,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Cumpas,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Cumuatillo,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Cupareo,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Cuquio,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Curimeo,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Cuto del Porvenir,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Cutzamala de Pinzón,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Cuyoaco,Pue.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Cuyutlán,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Chable,Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "Chacaltianguis,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Chahuites,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Chalcatzingo,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Chalco,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Chalchihuites,Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Chalma,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Chalma,Ver.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Chamácuaro,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Chametla,B.C.S.",
+		"Code": "612"
+	},
+	{
+		"Locality": "Champotón,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Chamula,Chis.",
+		"Code": "967"
+	},
+	{
+		"Locality": "Changata,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Chapala,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Chapalilla,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Chapantongo,Hgo.",
+		"Code": "763"
+	},
+	{
+		"Locality": "Chapulhuacán,Hgo.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Chapulhuacanito,S.L.P.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Charay,Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "Charcas,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Charco Blanco,Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Charco de Pantoja,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Charo,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Chaucingo,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Chavinda,Mich.",
+		"Code": "383"
+	},
+	{
+		"Locality": "Chemax,Yuc.",
+		"Code": "985"
+	},
+	{
+		"Locality": "Chemuyil,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Cherán Atzicuirin (Cheranastico),Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Cherán,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Chetumal,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Chiapa de Corzo,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Chiapa,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Chiautempan,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Chiautla de Tapia,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Chicavasco,Hgo.",
+		"Code": "772"
+	},
+	{
+		"Locality": "Chicomuselo,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Chiconcuac de Juárez,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Chiconquiaco,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Chicontepec,Ver.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Chicxulub Pueblo,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Chichicaxtle,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Chichihualco,Gro.",
+		"Code": "747"
+	},
+	{
+		"Locality": "Chichimequillas,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "Chichimequillas,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Chignahuapan,Pue.",
+		"Code": "797"
+	},
+	{
+		"Locality": "Chignautla,Pue.",
+		"Code": "231"
+	},
+	{
+		"Locality": "Chihuahua,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Chihuahua,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "Chihuahuita,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Chijol 17,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Chila de la Sal,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Chila de las Flores,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Chilapa,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Chilapa,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Chilcuautla,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Chilchota,Mich.",
+		"Code": "355"
+	},
+	{
+		"Locality": "Chilón,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Chilpancingo,Gro.",
+		"Code": "747"
+	},
+	{
+		"Locality": "Chimalhuacán,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Chimaltitán,Jal.",
+		"Code": "437"
+	},
+	{
+		"Locality": "China,Camp.",
+		"Code": "981"
+	},
+	{
+		"Locality": "China,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "Chinameca,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Chinameca,Ver.",
+		"Code": "922"
+	},
+	{
+		"Locality": "Chinantla,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Chinotahueca,Son.",
+		"Code": "642"
+	},
+	{
+		"Locality": "Chipilo de Francisco Javier Mina (Chipilo),Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Chiquilistlán,Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "Chocamán,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Chochola,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Choix,Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "Cholul,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Cholula de Rivadabia,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Chontla,Ver.",
+		"Code": "785"
+	},
+	{
+		"Locality": "Chosto de los Jarros,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Chucándiro,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Chunhuhub,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Chupicuaro (Nuevo Chupicuaro),Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Chupicuaro,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Churintzio,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Damián Carmona,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Degollado,Jal.",
+		"Code": "345"
+	},
+	{
+		"Locality": "Delta (Estación Delta),B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Dieciocho de Marzo,Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Diez de Octubre (San Lucas de Ocampo),Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Dimas (Estación Dimas),Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "División del Norte,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Doctor Arroyo,N.L.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Doctor Coss,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "Doctor González,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Doctor Porfirio Parra (La Caseta),Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Dolores Hidalgo,Gto.",
+		"Code": "418"
+	},
+	{
+		"Locality": "Dolores,Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "Donato Guerra,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Dongú,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Dos Arroyos,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Dos Ríos,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Dr. Mora,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "Durango,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Durango,Dgo.",
+		"Code": "618"
+	},
+	{
+		"Locality": "Dzibalchen,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Dzidzantun,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Dzilam de Bravo,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Dzilam González,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Dzitbalche,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Dziuche,Q.Roo",
+		"Code": "997"
+	},
+	{
+		"Locality": "Ebano,S.L.P.",
+		"Code": "845"
+	},
+	{
+		"Locality": "Ecatepec de Morelos,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ecuandureo,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Ejido 27 de Enero,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Ejido 31 de Octubre,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Ejido B.Juárez (Mpio.Namiquipa),Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Ejido Constitución,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Ejido Cuauhtémoc (Campo Cinco),Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Ejido Chiapas 1,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Distrito Federal,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Dr. Alberto Oviedo Mota (El Indiviso),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido El Largo,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Ejido El Quemadito,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Ejido Francisco Javier Mina (Campo 60),Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Ejido General Leandro Valle,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Ejido Germinal,Tamps.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Ejido Guadalajara,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Guanajuato,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Ejido José María Morelos,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Ejido La Victoria,Son.",
+		"Code": "662"
+	},
+	{
+		"Locality": "Ejido Lagunitas,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Ejido Lázaro Cárdenas,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Monterrey (Colonia Bataquez),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Ojo de Agua,B.C.",
+		"Code": "664"
+	},
+	{
+		"Locality": "Ejido Querétaro,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Quintana Roo,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejido Revolución (Las Víboras),Dgo.",
+		"Code": "629"
+	},
+	{
+		"Locality": "Ejido Sanson Flores,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Ejido Sinaloa,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Ejido Yucatán,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ejutla de Crespo,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Ejutla,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "El Abra,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "El Agostadero (San José Agostadero),Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "El Ahuaje,Mich.",
+		"Code": "424"
+	},
+	{
+		"Locality": "El Alazán,Ver.",
+		"Code": "765"
+	},
+	{
+		"Locality": "El Alberto,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "El Arenal,Jal.",
+		"Code": "374"
+	},
+	{
+		"Locality": "El Barretal,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "El Barrial (Rancho de los Benavides),N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "El Barrio de la Soledad,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "El Bolillo,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "El Bordo Buenavista,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "El Bote,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "El Burrión,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "El Camarón,Oax.",
+		"Code": "995"
+	},
+	{
+		"Locality": "El Capomo,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "El Capulín,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "El Capulín,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "El Capulín,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "El Cargadero,Zac.",
+		"Code": "494"
+	},
+	{
+		"Locality": "El Carmen,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "El Castillo (Mpio. Mazatlán),Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "El Castillo (Mpio. Navolato),Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "El Cazadero,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "El Cerrillo Piedras Blancas (El Cerrillo),Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "El Cerro Cabezón,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "El Cocuite,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "El Colomo,Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "El Colomo,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "El Compás,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "El Conchal,Ver.",
+		"Code": "229"
+	},
+	{
+		"Locality": "El Control,Tamps.",
+		"Code": "868"
+	},
+	{
+		"Locality": "El Coyote,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "El Chante,Jal.",
+		"Code": "317"
+	},
+	{
+		"Locality": "El Chauz,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "El Chique,Zac.",
+		"Code": "463"
+	},
+	{
+		"Locality": "El Chote,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "El Chucarit,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "El Derramadero,Gto.",
+		"Code": "445"
+	},
+	{
+		"Locality": "El Descanso,B.C.",
+		"Code": "665"
+	},
+	{
+		"Locality": "El Dorado,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "El Escondido,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "El Espinal,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "El Espinalillo,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "El Estanco,Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "El Farallón(Campamento CFE),Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "El Fortín,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "El Fresno,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "El Fuerte,Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "El Grullo,Jal.",
+		"Code": "321"
+	},
+	{
+		"Locality": "El Higo,Ver.",
+		"Code": "489"
+	},
+	{
+		"Locality": "El Hongo,B.C.",
+		"Code": "665"
+	},
+	{
+		"Locality": "El Huitussi,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "El Ingenio Azucarero,Chis.",
+		"Code": "964"
+	},
+	{
+		"Locality": "El Jabalí,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "El Jazmín,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "El Jícaro,Ver.",
+		"Code": "274"
+	},
+	{
+		"Locality": "El Jicote,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "El Jobo,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "El Jocoque,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "El Limón,Jal.",
+		"Code": "321"
+	},
+	{
+		"Locality": "El Limón,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "El Lucero (Arcinas),Dgo.",
+		"Code": "872"
+	},
+	{
+		"Locality": "El Magozal,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "El Mármol,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "El Molino,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "El Moralillo,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "El Naranjo,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "El Nayar,Dgo.",
+		"Code": "618"
+	},
+	{
+		"Locality": "El Nigromante,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "El Oasis Valsequillo,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "El Ocotito,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "El Oro,Méx.",
+		"Code": "711"
+	},
+	{
+		"Locality": "El Palmar (Santa María del Palmar),Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "El Palmar,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "El Paraíso,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "El Parral,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "El Pedregal San José,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "El Pitahayal,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "El Pital,Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "El Porvenir (Mpio. Bachiniva),Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "El Porvenir (Mpio. Praxedis G.),Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "El Porvenir Guadalupe,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "El Porvenir,Oax.",
+		"Code": "924"
+	},
+	{
+		"Locality": "El Potrero de Sataya,Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "El Potrero,N.L.",
+		"Code": "829"
+	},
+	{
+		"Locality": "El Pozole,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "El Pueblito,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "El Puesto,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "El Quelite,Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "El Ramillete,Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "El Rayón,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "El Roble,Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "El Rosario,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "El Rosario,Mich.",
+		"Code": "435"
+	},
+	{
+		"Locality": "El Sabino,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "El Sabino,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "El Sabino,Mich.",
+		"Code": "381"
+	},
+	{
+		"Locality": "El Salado,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "El Salitre Palmarillos,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "El Salitre,Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "El Salitre,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "El Salto,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "El Salto,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "El Salvador,Jal.",
+		"Code": "374"
+	},
+	{
+		"Locality": "El Saucito,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "El Sauz (El Sauz de Villaseñor),Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "El Sauz de Abajo,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "El Sauz,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "El Sauzal,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "El Tajuelo,Méx.",
+		"Code": "593"
+	},
+	{
+		"Locality": "El Tephe,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "El Tigre,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "El Tizate,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "El Tothie,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "El Trapiche,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "El Triunfo,Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "El Tuito,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "El Tule,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "El Venadillo,Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "El Verde,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "El Vergel (Ejido El Vergel),Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "El Zacatón,S.L.P.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Emiliano Zapata (Morones),Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Emiliano Zapata,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "Emiliano Zapata,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Emiliano Zapata,Hgo.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Emiliano Zapata,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Emiliano Zapata,Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "Emilio Carranza,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Empalme Escobedo,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Empalme,Son.",
+		"Code": "622"
+	},
+	{
+		"Locality": "Empalme,Tamps.",
+		"Code": "894"
+	},
+	{
+		"Locality": "Encarnación de Díaz,Jal.",
+		"Code": "475"
+	},
+	{
+		"Locality": "Ensenada,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Entabladero,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Entronque Congregación Hgo.,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Epazoyucan,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Epitacio Huerta,Mich.",
+		"Code": "421"
+	},
+	{
+		"Locality": "Erendira,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Ermita de Guadalupe,Zac.",
+		"Code": "494"
+	},
+	{
+		"Locality": "Ermita de los Correas,Zac.",
+		"Code": "494"
+	},
+	{
+		"Locality": "Erongaicuaro,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Escalón,Chih.",
+		"Code": "629"
+	},
+	{
+		"Locality": "Escárcega,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Escuinapa,Sin.",
+		"Code": "695"
+	},
+	{
+		"Locality": "Escuintla,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Españita,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Esperanza,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "Esperanza,Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Espinal,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Espita,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Esqueda,Son.",
+		"Code": "633"
+	},
+	{
+		"Locality": "Estación Bamoa (Campo Wilson),Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Estación Catorce,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Estación Coahuila (Km 57),B.C.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Estación Cuauhtémoc,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Estación Chontalpa,Tab.",
+		"Code": "917"
+	},
+	{
+		"Locality": "Estación de Apulco,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Estación Llano,Son.",
+		"Code": "641"
+	},
+	{
+		"Locality": "Estación Manuel,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Estación Naranjo,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Estación Queréndaro,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Estación San Diego,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Estación San José,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Estación Santa Engracia,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Estación Yago,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Estancia de Animas,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Estanzuela,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Estero de la Bocana,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Esteros,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Estipac,Jal.",
+		"Code": "377"
+	},
+	{
+		"Locality": "Etchojoa,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Etchoropo,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Etucuaro,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Etzatlán,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Exhacienda de Jesús María,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Ex-hacienda de Solís,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Ezequiel Montes,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Felipe Carrillo Puerto (Carrillo Puerto),Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Felipe Carrillo Puerto (La Ruana),Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Felipe Carrillo Puerto (Paso Largo),Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "Felipe Carrillo Puerto,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Felipe Neri (Cuatepec),Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Flamboyanes,Yuc.",
+		"Code": "969"
+	},
+	{
+		"Locality": "Flores Magón,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Fortín de las Flores,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Fortines y Emiliano Zapata (Fortines),Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Fracc. Emiliano Zapata,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Fracc. Industrial Bernardo Quintana,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Fracc. Kunetzin de los Volcanes,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Fraccionamiento Nuevo Empalme,Son.",
+		"Code": "622"
+	},
+	{
+		"Locality": "Francisco I. Madero (Puga),Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "Francisco I. Madero,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Francisco I. Madero,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Francisco Javier Mina,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Francisco R. Serrano (Valle San Matías),B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Francisco Rueda,Tab.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Francisco Sarabia,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Franco Tavera,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Fresnillo,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Frías,Gto.",
+		"Code": "432"
+	},
+	{
+		"Locality": "Frontera Comalapa,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Frontera,Coah.",
+		"Code": "866"
+	},
+	{
+		"Locality": "Frontera,Tab.",
+		"Code": "913"
+	},
+	{
+		"Locality": "Fronteras,Son.",
+		"Code": "633"
+	},
+	{
+		"Locality": "Fuentes del Valle,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "G.Rodrigo M. Quevedo (Pto.Palomas),Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Gabriel Leyva Solano (Benito Juárez),Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Gabriel Zamora (Lombardia),Mich.",
+		"Code": "422"
+	},
+	{
+		"Locality": "Galeana,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Galeana,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Galeana,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Gambara,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Gandho,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "García de la Cadena,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "García,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Garza Ayala,N.L.",
+		"Code": "824"
+	},
+	{
+		"Locality": "Garza González,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "Genaro Estrada,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "General Chávez Talamantes,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "General Bravo,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "General Cepeda,Coah.",
+		"Code": "842"
+	},
+	{
+		"Locality": "General Enrique Estrada,Zac.",
+		"Code": "478"
+	},
+	{
+		"Locality": "General Escobedo,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "General Francisco Villa,Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "General Genaro Codina,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "General Ignacio Zaragoza (Venadero),Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "General Jesús Agustín Castro (Independencia),Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "General Pedro María Anaya (San Mateo),Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "General Simón Bolívar,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "General Terán,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "General Treviño,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "General Zaragoza,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "General Zuazua,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Gildardo Magaña (Los Angeles),Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Golfo de Santa Clara,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Gómez Farías,Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "Gómez Palacio,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "González Ortega,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "González,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Graciano Sánchez,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Gral. Fco. González Villarreal, (San Juan),Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "Gral. J. Ma. Morelos y Pavón (Cañada Honda),Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Gral.Felipe Carrillo Puerto,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Granjas Residenciales,Qro.",
+		"Code": "414"
+	},
+	{
+		"Locality": "Gsemez,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Guachinango,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Guachochi,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Guadalajara,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Guadalcázar,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Guadalupe (Guadalupe de Ures),Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Guadalupe de Rivera,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Guadalupe Distrito Bravos,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Guadalupe Santa Ana,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Guadalupe Victoria (Km 43),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Guadalupe Victoria (La Virocha),Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Guadalupe Victoria (Mp.Asención),Chih",
+		"Code": "636"
+	},
+	{
+		"Locality": "Guadalupe Victoria (Mp.Meoqui),Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Guadalupe Victoria,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Guadalupe Victoria,Pue.",
+		"Code": "282"
+	},
+	{
+		"Locality": "Guadalupe Victoria,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Guadalupe Victoria,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Guadalupe y Calvo,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Guadalupe,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Guadalupe,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Guamuchil,Sin.",
+		"Code": "673"
+	},
+	{
+		"Locality": "Guanacevi,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Guanajuato,Gto.",
+		"Code": "473"
+	},
+	{
+		"Locality": "Guarapo,Gto.",
+		"Code": "456"
+	},
+	{
+		"Locality": "Guardados de Arriba,Tamps.",
+		"Code": "897"
+	},
+	{
+		"Locality": "Guasave,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Guascuaro de Mugica,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Guatimape,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Guayameo,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Guaymas,Son.",
+		"Code": "622"
+	},
+	{
+		"Locality": "Guegovela,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Guerrero Negro,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Guerrero,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Gustavo Díaz Ordaz (El Carrizo),Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Gustavo Díaz Ordaz (Vizcaíno),B.C.S",
+		"Code": "615"
+	},
+	{
+		"Locality": "Gustavo Díaz Ordaz,Tamps.",
+		"Code": "891"
+	},
+	{
+		"Locality": "Gutiérrez Zamora,Ver.",
+		"Code": "766"
+	},
+	{
+		"Locality": "Hacienda de Cabañas,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "Hacienda Nueva,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Halacho,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Hecelchakan,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Hermenegildo Galeana,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Hermiltepec (Peña Blanca),Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "Hermosillo,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Hermosillo,Son.",
+		"Code": "662"
+	},
+	{
+		"Locality": "Hernández,S.L.P.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Héroes de la Independencia,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Hidalgo (Colonia Hidalgo),Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Hidalgo (Ejido Hidalgo),Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Hidalgo,Coah.",
+		"Code": "867"
+	},
+	{
+		"Locality": "Hidalgo,N.L.",
+		"Code": "829"
+	},
+	{
+		"Locality": "Hidalgo,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Hidalgotitlán,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Higuera de Zaragoza,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Higueras,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Hocaba,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Hoctun,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Holbox,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Honey,Pue.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Hopelchen,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Hostotipaquillo,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Huachinantla,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Huachinera,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Huajicori,Nay.",
+		"Code": "325"
+	},
+	{
+		"Locality": "Huajintlán,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Huajumbaro,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Hualahuises,N.L.",
+		"Code": "821"
+	},
+	{
+		"Locality": "Huamantla,Tlax.",
+		"Code": "247"
+	},
+	{
+		"Locality": "Huamuxtitlán,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Huandacareo,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Huanimaro,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Huaniqueo de Morales,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Huanusco,Zac.",
+		"Code": "463"
+	},
+	{
+		"Locality": "Huapango,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Huasabas,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Huasca de Ocampo,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Huascato,Jal.",
+		"Code": "345"
+	},
+	{
+		"Locality": "Huatabampo,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Huatlatlauca,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Huatusco,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Huauchinango,Pue.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Huautla de Jiménez,Oax.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Huautla,Hgo.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Huayacocotla,Ver.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Huayalejo,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Huecahuasco,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Huehuetán,Chis.",
+		"Code": "964"
+	},
+	{
+		"Locality": "Huehuetlán El Chico,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Huehuetoca,Méx.",
+		"Code": "593"
+	},
+	{
+		"Locality": "Huejotzingo,Pue.",
+		"Code": "227"
+	},
+	{
+		"Locality": "Huejucar,Jal.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Huejuquilla El Alto,Jal.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Huejutla de Reyes,Hgo.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Huepac,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Huetamo,Mich.",
+		"Code": "435"
+	},
+	{
+		"Locality": "Hueyotlipan,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Hueypoxtla,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "Hueytamalco,Pue.",
+		"Code": "232"
+	},
+	{
+		"Locality": "Hueytepec,Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "Huhi,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Huichapan,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Huichihuayan,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Huimanguillo,Tab.",
+		"Code": "917"
+	},
+	{
+		"Locality": "Huimilpan,Qro.",
+		"Code": "448"
+	},
+	{
+		"Locality": "Huiramba,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Huisquilco (Huiscuilco),Jal.",
+		"Code": "344"
+	},
+	{
+		"Locality": "Huitchila,Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Huitzatarito,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Huitzilac,Mor.",
+		"Code": "739"
+	},
+	{
+		"Locality": "Huitzuco,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Huixquilucan,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "Huixtac,Gro.",
+		"Code": "762"
+	},
+	{
+		"Locality": "Huixtla,Chis.",
+		"Code": "964"
+	},
+	{
+		"Locality": "Hunucma,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Ibarra,Mich.",
+		"Code": "393"
+	},
+	{
+		"Locality": "Idolos,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Ignacio Allende (Santa María de la),Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Ignacio Allende,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Ignacio Allende,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Ignacio de la Llave,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Ignacio Ramírez,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Ignacio Zaragoza (Kilometro 80),Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Ignacio Zaragoza,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Iguala,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Ihuatzio,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Imuris,Son.",
+		"Code": "632"
+	},
+	{
+		"Locality": "Indaparapeo,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Inde,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Independencia (Cologachi),Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Independencia,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Infiernillo (Morelos de Infiernillo),Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Ingeniero Francisco Murguía (Km. 49),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Ingeniero Luis B. Sánchez,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Ingenio Alvaro Obregón,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Iramuco,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Irapuato,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Isla Aguada,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Isla de Cedros,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Isla del Bosque,Sin.",
+		"Code": "695"
+	},
+	{
+		"Locality": "Isla Mujeres,Q.Roo",
+		"Code": "998"
+	},
+	{
+		"Locality": "Isla,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Islas Agrarias Grupo A,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Islas Agrarias Grupo B,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Islita,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "Iturbide,N.L.",
+		"Code": "821"
+	},
+	{
+		"Locality": "Ixcamilpa,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Ixcapuzalco,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Ixcateopan de Cuauhtémoc,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Ixcatepec,Ver.",
+		"Code": "785"
+	},
+	{
+		"Locality": "Ixhuatlán del Café,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Ixhuatlán del Sureste,Ver.",
+		"Code": "921"
+	},
+	{
+		"Locality": "Ixmiquilpan,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "Ixtacomitán,Chis.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Ixtaczoquitlán,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Ixtahuiata (La Legua),Pue.",
+		"Code": "231"
+	},
+	{
+		"Locality": "Ixtapa de la Concepción,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Ixtapa Zihuatanejo,Gro.",
+		"Code": "755"
+	},
+	{
+		"Locality": "Ixtapa,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Ixtapa,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Ixtapaluca,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ixtapan de la Sal,Méx.",
+		"Code": "721"
+	},
+	{
+		"Locality": "Ixtapan del Oro,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Ixtepec,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Ixtlahuaca de Villada,Méx.",
+		"Code": "723"
+	},
+	{
+		"Locality": "Ixtlahuaca,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Ixtlahuacán de los Membrillos,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Ixtlahuacán del Río,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Ixtlahuacán,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Ixtlán de Juárez,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Ixtlán de los Hervores,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Ixtlán del Río,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Izamal,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Izúcar de Matamoros,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Jacala,Hgo.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Jacona de Plancarte,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "Jagüey de Téllez (Estación Téllez),Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Jala,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Jalacingo,Ver.",
+		"Code": "226"
+	},
+	{
+		"Locality": "Jalapa (Xalapa),Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Jalapa del Marque,Oax.",
+		"Code": "995"
+	},
+	{
+		"Locality": "Jalapa,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Jalapa,Tab.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Jalcocotán,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Jalostotitlán,Jal.",
+		"Code": "431"
+	},
+	{
+		"Locality": "Jalpa de Méndez,Tab.",
+		"Code": "914"
+	},
+	{
+		"Locality": "Jalpa,Zac.",
+		"Code": "463"
+	},
+	{
+		"Locality": "Jalpan de Serra,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Jaltenango de la Paz,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Jaltepec,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Jaltiche de Abajo,Ags.",
+		"Code": "495"
+	},
+	{
+		"Locality": "Jaltipán,Ver.",
+		"Code": "922"
+	},
+	{
+		"Locality": "Jaltomate,Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Jamapa,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Jamay,Jal.",
+		"Code": "392"
+	},
+	{
+		"Locality": "Janambo,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Janos,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Jarácuaro,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Jaral de Berrios,Gto.",
+		"Code": "428"
+	},
+	{
+		"Locality": "Jaral del Progreso,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Jaripo,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Jaumave,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Jecopaco,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Jerécuaro,Gto.",
+		"Code": "421"
+	},
+	{
+		"Locality": "Jesús Carranza,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Jesús María Garza,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "Jesús María,Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Jesús María,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "Jesús María,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "Jilotepec,Méx.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Jilotlán de los Dolores,Jal.",
+		"Code": "424"
+	},
+	{
+		"Locality": "Jilotzingo,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "Jiménez del Teul,Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Jiménez,Coah.",
+		"Code": "878"
+	},
+	{
+		"Locality": "Jiquilpan de Juárez,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Jiquipilas,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Jiquipilco,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Jitotol de Zaragoza,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Jiutepec,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Joachín,Ver.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Jocotepec,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Jocotitlán,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Jojutla,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Jolalpan,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Jonacatepec,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Jonuta,Tab.",
+		"Code": "913"
+	},
+	{
+		"Locality": "Joquicingo de León Guzmán,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Jorobas,Méx.",
+		"Code": "593"
+	},
+	{
+		"Locality": "José Cardel,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "José Guadalupe Aguilera (Santa Lucia),Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "José Guadalupe Rodríguez (Peñuelas),Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "José María Morelos (Chinacates),Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "José María Morelos (San Jose de Gracia),Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "José María Morelos (San José),Hgo.",
+		"Code": "748"
+	},
+	{
+		"Locality": "José María Morelos,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "José María Morelos,Q.Roo",
+		"Code": "997"
+	},
+	{
+		"Locality": "José María Pino Suárez,Pue.",
+		"Code": "238"
+	},
+	{
+		"Locality": "Josefino de Allende,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "Juan Aldama (El Tigre),Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Juan Aldama,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Juan Díaz Covarrubias,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Juan José Ríos,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Juan Lucas,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Juan Martín,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Juanita,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Juárez,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "Juárez,Chis.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Jucatacato,Mich.",
+		"Code": "452"
+	},
+	{
+		"Locality": "Juchipila,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Juchique de Ferrer,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Juchitán,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Juchitán,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Juchitepec,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Juchitlán,Jal.",
+		"Code": "349"
+	},
+	{
+		"Locality": "Julimes,Chih.",
+		"Code": "621"
+	},
+	{
+		"Locality": "Jumiltepec,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Jungapeo,Mich.",
+		"Code": "715"
+	},
+	{
+		"Locality": "Jurica (Ex-Hacienda),Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Juriquilla,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Juventino Rosas,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Kanasin,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Kantunil,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Kantunilkin,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Kaua,Yuc.",
+		"Code": "985"
+	},
+	{
+		"Locality": "Kilometro 30,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Komchen,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "La \"\"d\"",
+		"Code": "Qro.\"",
+		"undefined": "448"
+	},
+	{
+		"Locality": "La Aldea,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "La Antigua,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "La Ascensión,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "La Ascensión,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "La Barca,Jal.",
+		"Code": "393"
+	},
+	{
+		"Locality": "La Boquilla del Conchos,Chih.",
+		"Code": "648"
+	},
+	{
+		"Locality": "La Brecha,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "La Bufadora,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "La Caja,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "La Calera (El Canario),Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "La Calera,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "La Cañada,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "La Cañada,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "La Caridad (Fracción G),Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "La Ciudad,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "La Concepción,Jal.",
+		"Code": "345"
+	},
+	{
+		"Locality": "La Concepción,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "La Concordia (Rosita),Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "La Concha,Sin.",
+		"Code": "695"
+	},
+	{
+		"Locality": "La Constancia,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "La Cruz,Chih.",
+		"Code": "648"
+	},
+	{
+		"Locality": "La Cruz,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "La Cuevita,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "La Choya,Son.",
+		"Code": "638"
+	},
+	{
+		"Locality": "La Encarnación,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "La Escondida,Gto.",
+		"Code": "428"
+	},
+	{
+		"Locality": "La Esperanza,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "La Esperanza,Mich.",
+		"Code": "383"
+	},
+	{
+		"Locality": "La Estancia de San José del Carmen,Gto",
+		"Code": "466"
+	},
+	{
+		"Locality": "La Estancia,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "La Estanzuela,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "La Excusa,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "La Frontera,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "La Fuente,Qro.",
+		"Code": "414"
+	},
+	{
+		"Locality": "La Garita,Jal.",
+		"Code": "358"
+	},
+	{
+		"Locality": "La Goma,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "La Granja,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "La Higuera,Jal.",
+		"Code": "318"
+	},
+	{
+		"Locality": "La Huacana,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "La Huerta,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "La Joya de Calvillo,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "La Joya,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "La Joya,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "La Junta,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "La Laguna y Monte del Castillo,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "La Lagunilla,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "La Libertad ((Mpio. Suchiate),Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "La Libertad (Mpio. La Libertad),Chis.",
+		"Code": "934"
+	},
+	{
+		"Locality": "La Loma,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "La Luz (Mpio. Pajacuarán),Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "La Luz (Mpio. Penjamillo),Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "La Luz,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "La Magdalena Tetela Morelos (La Magdalena),Pue.",
+		"Code": "223"
+	},
+	{
+		"Locality": "La Magdalena,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "La Manzanilla de la Paz,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "La Manzanilla,Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "La Mesa (El Fresnito),Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "La Mira,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "La Noria Hidalgo,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "La Noria,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "La Norteña,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "La Palma (La Palma de Jesús),Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "La Palma (Las Palmas),Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "La Panadera,Ags.",
+		"Code": "495"
+	},
+	{
+		"Locality": "La Partida,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "La Paz,B.C.S.",
+		"Code": "612"
+	},
+	{
+		"Locality": "La Paz,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "La Paz,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "La Paz,Jal.",
+		"Code": "496"
+	},
+	{
+		"Locality": "La Paz,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "La Perla,Chih.",
+		"Code": "648"
+	},
+	{
+		"Locality": "La Pesca,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "La Piedad,Mich.",
+		"Code": "352"
+	},
+	{
+		"Locality": "La Plaza de Fco. J. Mugica (Plaza del Limón),Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "La Presa,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "La Providencia,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "La Punta,Ags.",
+		"Code": "458"
+	},
+	{
+		"Locality": "La Purísima,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "La Reforma,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "La Reforma,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "La Ribera,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "La Sauceda,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "La Soledad,Tamps.",
+		"Code": "899"
+	},
+	{
+		"Locality": "La Tinaja,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "La Trinidad,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "La Trinidad,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "La Trinidad,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "La Trinitaria,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "La Unidad Huitzizilapan,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "La Unión,Gro.",
+		"Code": "755"
+	},
+	{
+		"Locality": "La Valla,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "La Venta (Cacaloxuchitl),Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "La Venta (Rancho La Venta),Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "La Venta del Astillero,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "La Venta,Tab.",
+		"Code": "923"
+	},
+	{
+		"Locality": "La Ventosa,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "La Victoria,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "La Vigueta,Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "La Yerbabuena,Mich.",
+		"Code": "471"
+	},
+	{
+		"Locality": "Lagos de Moreno,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "Laguna del Rey (Del Rey,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Laguna Grande,Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Laguna Larga,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Lagunas,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "Lagunillas de Rayón (Alchichica),Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Lagunillas,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Lagunillas,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Lampazos,N.L.",
+		"Code": "873"
+	},
+	{
+		"Locality": "Las Cabañas,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Las Cañadas (Bosques de San Isidro),Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Las Cañas,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Las Cieneguitas,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Las Coloradas,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Las Cucharas,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Las Choapas,Ver.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Las Esperanzas (El Ranchito),Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Las Esperanzas,Coah.",
+		"Code": "864"
+	},
+	{
+		"Locality": "Las Garzas,Chis.",
+		"Code": "917"
+	},
+	{
+		"Locality": "Las Grullas Margen Izquierdo,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Las Guacamayas,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Las Hilamas (El Piedrero),Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Las Jicamas,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Las Lagunitas,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Las Margaritas,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Las Mesas,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Las Navajas,Jal.",
+		"Code": "384"
+	},
+	{
+		"Locality": "Las Nieves,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Las Palmas de Arriba,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Las Pintas,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Las Plazas,Hgo.",
+		"Code": "779"
+	},
+	{
+		"Locality": "Las Ranas,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Las Varas,Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Las Varas,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Las Vigas,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Las Virginias,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Lázaro Cárdenas (Mp.Cuauhtémoc),Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Lázaro Cárdenas (Mpio Meoqui),Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Lázaro Cárdenas (Valle de la Trinidad),B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Lázaro Cárdenas,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Lázaro Cárdenas,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "León Fonseca Estación Verdura),Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "León,Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Leona Vicario,Q.Roo",
+		"Code": "998"
+	},
+	{
+		"Locality": "Lequeitio,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Lerdo de Tejada,Ver.",
+		"Code": "284"
+	},
+	{
+		"Locality": "Lerma,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "Ley Federal de Reforma Agraria,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Libres,Pue.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Lic. Adolfo López Mateos,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Limón de los Ramos,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Linares,N.L.",
+		"Code": "821"
+	},
+	{
+		"Locality": "Linda Vista,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Lo Arado,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Lo de Juárez,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Lo de Marcos,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Loma Alta (Loma Alta de Gómez Farias),Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Loma Bonita,Oax.",
+		"Code": "281"
+	},
+	{
+		"Locality": "Loma Bonita,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Loma de Zempoala,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Loma Linda,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "Lomas de Arena,Ver.",
+		"Code": "766"
+	},
+	{
+		"Locality": "Lomas de Barrillas,Ver.",
+		"Code": "921"
+	},
+	{
+		"Locality": "Lomas del Real,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Lombardo de Caso,Oax.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Loreto (Teresa),Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Loreto,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Loreto,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Los Abanicos (El Abanico),Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Los Aldamas,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "Los Altos,Ver.",
+		"Code": "282"
+	},
+	{
+		"Locality": "Los Ayala,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Los Aztecas,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Los Azulitos,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "Los Campos,Jal.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Los Colorados de Abajo,N.L.",
+		"Code": "824"
+	},
+	{
+		"Locality": "Los Comales,Tamps.",
+		"Code": "891"
+	},
+	{
+		"Locality": "Los Charcos,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Los Frailes,Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "Los Globos,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Los Guajes,Mich.",
+		"Code": "352"
+	},
+	{
+		"Locality": "Los Herrera,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Los Herreras,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "Los Limones,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Los Mochis,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Los Ocotes,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Los Pilares,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Los Ramones,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "Los Reyes Acaquilpan,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Los Reyes Acozac,Méx.",
+		"Code": "596"
+	},
+	{
+		"Locality": "Los Reyes de Juárez,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Los Reyes,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Los Robles,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Los Rodríguez,Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "Los Sauces,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Los Sauces,Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Los Tecomates (Piedra Pesada),Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Los Tepames,Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Los Tigres (San Marcos),Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Los Volcanes,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Loza de los Padres (La Loza),Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Luces del Mar,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Luchana,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Luis Moya,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Luvianos,Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "Llano Grande,Dgo.",
+		"Code": "618"
+	},
+	{
+		"Locality": "Llera de Canales,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Macultepec-Ocuiltzapotlan,Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Macuspana,Tab.",
+		"Code": "936"
+	},
+	{
+		"Locality": "Madrid,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Magdalena Chichicaspa,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "Magdalena de Kino,Son.",
+		"Code": "632"
+	},
+	{
+		"Locality": "Magdalena Teitipac,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Magdalena Tequisistlán,Oax.",
+		"Code": "995"
+	},
+	{
+		"Locality": "Magdalena,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Maguey,Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "Mahuixtlán,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Malinalco,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Malpaso,Ags.",
+		"Code": "495"
+	},
+	{
+		"Locality": "Malpaso,Zac.",
+		"Code": "499"
+	},
+	{
+		"Locality": "Maltrata,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Manalisco,Jal.",
+		"Code": "344"
+	},
+	{
+		"Locality": "Maneadero,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Mani,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Manlio Fabio Altamirano,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Manuel Benavides,Chih.",
+		"Code": "626"
+	},
+	{
+		"Locality": "Manuel M. Dieguez,Jal.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Manuel Ojinaga,Chih.",
+		"Code": "626"
+	},
+	{
+		"Locality": "Manuel Villalongín,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Manzanillo,Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "Mapastepec,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Mapimi,Dgo.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Maravatío,Mich.",
+		"Code": "447"
+	},
+	{
+		"Locality": "Maravillas,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Marcelino Rodríguez (San Ignacio),Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Marena Cove,B.C.",
+		"Code": "661"
+	},
+	{
+		"Locality": "Marfil,Gto.",
+		"Code": "473"
+	},
+	{
+		"Locality": "Margaritas,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Mariano Escobedo (San Lorenzo),Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Mariano Matamoros,Chih.",
+		"Code": "628"
+	},
+	{
+		"Locality": "Marín,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Mariscala de Juárez,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Marquelia,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Marte R. Gómez (Tobarito),Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Martínez de la Torre,Ver.",
+		"Code": "232"
+	},
+	{
+		"Locality": "Martiniano Hernández (San Jose Xilotzingo),Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Mascota,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Matachic,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Matamoros,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Matamoros,Tamps.",
+		"Code": "868"
+	},
+	{
+		"Locality": "Matanzas,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "Matatlán,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Matehuala,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Matías Romero,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "Matlapa,S.L.P.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Maxcanú,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Maxela,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Mayanalán,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Mazamitla,Jal.",
+		"Code": "382"
+	},
+	{
+		"Locality": "Mazapil,Zac.",
+		"Code": "842"
+	},
+	{
+		"Locality": "Mazatán,Chis.",
+		"Code": "964"
+	},
+	{
+		"Locality": "Mazatán,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Mazatecochco,Tlax.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Mazatlán,Gro.",
+		"Code": "747"
+	},
+	{
+		"Locality": "Mazatlán,Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "Mecapalapa,Pue.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Mecatán,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Mechoacanejo,Jal.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Medellín de Bravo,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Medias Aguas,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Medina,Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Melchor Ocampo (El Salto),Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Melchor Ocampo,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Melchor Ocampo,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "Mérida,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Mérida,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Metapa de Domínguez,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Metepec,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Metepec,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Metlaltoyuca,Pue.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Metztitlán,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Mexicali,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Mexicaltzingo,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Mexquitic de Carmona,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Mexticacán,Jal.",
+		"Code": "344"
+	},
+	{
+		"Locality": "Mezcala (Mp.Tepatitlán de Morelo),Jal",
+		"Code": "378"
+	},
+	{
+		"Locality": "Mezcala de los Romeros,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Mezcala,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Mezcales,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Mezquital del Oro,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Mezquite Alto,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Mezquitic,Jal.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Mezquititlán,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Miacatlán,Mor.",
+		"Code": "737"
+	},
+	{
+		"Locality": "Miahuatlán,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Michapa,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Michoacán de Ocampo,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Miguel Ahumada,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Miguel Alemán (La Doce),Son.",
+		"Code": "662"
+	},
+	{
+		"Locality": "Miguel Auza,Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Milpas Viejas,Nay.",
+		"Code": "389"
+	},
+	{
+		"Locality": "Mina,N.L.",
+		"Code": "829"
+	},
+	{
+		"Locality": "Minas de Barroterán,Coah.",
+		"Code": "864"
+	},
+	{
+		"Locality": "Minatitlán,Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "Minatitlán,Ver.",
+		"Code": "922"
+	},
+	{
+		"Locality": "Mineral de San Pedro Pozos (Mineral de Pozos),Gto.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Mineral del Monte,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Miquihuana,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Miraflores,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Misantla,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Misión,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Mismaloya,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Mitla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Mixquiahuala,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Mixtlán,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Mocorito,Sin.",
+		"Code": "673"
+	},
+	{
+		"Locality": "Moctezuma,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Moctezuma,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Mochicahui Pueblo,Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "Mochitlán,Gro.",
+		"Code": "754"
+	},
+	{
+		"Locality": "Molango,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Molcaxac,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Momax,Zac.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Moncada,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Monclova,Coah.",
+		"Code": "866"
+	},
+	{
+		"Locality": "Monte Blanco,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Monte de Peña,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Monte Escobedo,Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Monte Mariana,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Monte Verde (El Coyote),Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Montemorelos,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "Monteón,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Monterrey,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Morelia,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Morelos Cañada,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Morelos,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Morelos,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Morocoy,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Moroleón,Gto.",
+		"Code": "445"
+	},
+	{
+		"Locality": "Motozintla,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Motul,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Moyahua,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Mozomboa,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Mulege (Mulege),B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Muna,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Muñoz,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Muzquiz,Coah.",
+		"Code": "864"
+	},
+	{
+		"Locality": "Nacajuca,Tab.",
+		"Code": "914"
+	},
+	{
+		"Locality": "Nacionalista de Sánchez Taboada,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Naco,Son.",
+		"Code": "633"
+	},
+	{
+		"Locality": "Nacori Chico,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Nacozari,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Naica,Chih.",
+		"Code": "621"
+	},
+	{
+		"Locality": "Nanacamilpa,Tlax.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Nanchital de Lázaro Cárdenas del Río,Ver.",
+		"Code": "921"
+	},
+	{
+		"Locality": "Naolinco de Victoria,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Napateco,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Naranjal,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Naranjos,Ver.",
+		"Code": "768"
+	},
+	{
+		"Locality": "Naucalpan de Juárez (Mp.Huixqui,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Naucalpan de Juárez (Mp.Naucalp,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Nautla,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Nava,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Navarrete,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Navojoa,Son.",
+		"Code": "642"
+	},
+	{
+		"Locality": "Navolato,Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "Nayarit Llamada,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Nazareno,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Nazas,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Necaxa,Pue.",
+		"Code": "764"
+	},
+	{
+		"Locality": "Nepantla de Sor Juana Inés de la Cruz,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Neutla,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Nextlalpan,Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "Nicolás Bravo,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Nicolás Bravo,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Nicolás Bravo,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Nicolás R. Casillas,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Nieves,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Nigromante,Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "Nio,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Nochistlán,Zac.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Nogales,Son.",
+		"Code": "631"
+	},
+	{
+		"Locality": "Nombre de Dios,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "Nonoava,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Nopala,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Nopaltepec,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "Nopaltepec,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Nopolo,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Noria de Angeles,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Nueva Ciudad Guerrero,Tamps.",
+		"Code": "897"
+	},
+	{
+		"Locality": "Nueva Concordia,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Nueva Italia,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Nueva Madera,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Nueva Rosita,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "Nueve de Diciembre,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Nuevo Padilla,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Nuevo Balsas,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Nuevo Casas Grandes,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Nuevo Ideal,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Nuevo Ixcatlán,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Nuevo Laredo,Tamps.",
+		"Code": "867"
+	},
+	{
+		"Locality": "Nuevo León,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Nuevo México,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "Nuevo Morelos,Tamps.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Nuevo Progreso (El Doce),Ver.",
+		"Code": "782"
+	},
+	{
+		"Locality": "Nuevo Progreso,Camp.",
+		"Code": "938"
+	},
+	{
+		"Locality": "Nuevo Progreso,Tamps.",
+		"Code": "899"
+	},
+	{
+		"Locality": "Nuevo San Diego Tensaenz (El Caballo),Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Nuevo San Juan Parangaricutiro,Mich.",
+		"Code": "452"
+	},
+	{
+		"Locality": "Nuevo Tantoán,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Nuevo Urecho,Mich.",
+		"Code": "422"
+	},
+	{
+		"Locality": "Nuevo Vallarta,Nay.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Nuevo Xcan,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Nuevo Zirosto,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Numerán,Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "Nurio,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Nuxco,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Oacalco,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Oaxaca de Juárez,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Oaxtepec,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Obrajuelo,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Ocampo,Coah.",
+		"Code": "869"
+	},
+	{
+		"Locality": "Ocampo,Gto.",
+		"Code": "428"
+	},
+	{
+		"Locality": "Ocampo,Mich.",
+		"Code": "715"
+	},
+	{
+		"Locality": "Ocampo,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Oconahua,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "Ocosingo,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Ocotepec,Pue.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Ocotlán de Morelos,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Ocotlán,Jal.",
+		"Code": "392"
+	},
+	{
+		"Locality": "Ocoyoacac,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "Ocozocoautla,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Ocuilán de Arteaga,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Ochomitas,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Ojo Caliente,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Ojo de Agua de Ballesteros,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Ojo de Agua de Palmillas,Sin.",
+		"Code": "695"
+	},
+	{
+		"Locality": "Ojo de Agua,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Ojocaliente,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Ojos Negros Real del Castillo,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Ojuelos de Jalisco,Jal.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Olinalá,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Omealca,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Ometepec,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Omitlán de Juárez,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Once de Febrero 1a. Sección,Tab.",
+		"Code": "914"
+	},
+	{
+		"Locality": "Ordeñita de Barajas (Ordeña de Barajas),Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Orduña de Arriba,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Oriental,Pue.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Orizaba,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Orizabita,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "Oscar Soto Maynez,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Otaez,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Otatitlán,Ver.",
+		"Code": "287"
+	},
+	{
+		"Locality": "Otatlán,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Otumba,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "Otzoloapan,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Oxchuc,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Oxkutzcab,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Oxtotipac,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "Oxtotitlán,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Ozuluama,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Ozumba,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Ozumbilla(Ejido El Zapote),Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Pabellón de Arteaga,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "Pabellón de Hidalgo,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "Pacho Viejo,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Pachuca de Soto,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Pahuatlán de Valle,Pue.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Pajarearán,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Palau,Coah.",
+		"Code": "864"
+	},
+	{
+		"Locality": "Palenque,Chis.",
+		"Code": "916"
+	},
+	{
+		"Locality": "Palizada,Camp.",
+		"Code": "913"
+	},
+	{
+		"Locality": "Palma de la Cruz,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Palma Grande,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Palma Pegada,S.L.P.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Palma Sola,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Palmar Chico,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Palmar de Bravo,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Palmarito Tochapan,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Palo Alto de Abajo,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Palo Alto,Ags.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Palo Alto,Mich.",
+		"Code": "381"
+	},
+	{
+		"Locality": "Palo Verde,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Palomar,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Palomares,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "Palos Altos,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Palos Blancos,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Panaba,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Pánfilo Natera,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Panindicuaro,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Panotla,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Pantanal,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "Pantelho,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Pánuco de Coronado,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Pánuco,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Papaloapam,Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "Papalotla,Tlax.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Papanoa,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Papantla,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Parácuaro,Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "Parácuaro,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Paracho,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Paraíso La Reforma,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Paraíso Novillero,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Paraíso,Tab.",
+		"Code": "933"
+	},
+	{
+		"Locality": "Paraje Nuevo,Ver.",
+		"Code": "271"
+	},
+	{
+		"Locality": "Paredón,Chis.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Paredones,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Pareo,Mich.",
+		"Code": "453"
+	},
+	{
+		"Locality": "Parícuaro,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Parque Ind. Cienega de Flores,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Parque Industrial Ciudad Mitras,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Parral,Chih.",
+		"Code": "627"
+	},
+	{
+		"Locality": "Parras de la Fuente,Coah.",
+		"Code": "842"
+	},
+	{
+		"Locality": "Parrilla Primera Sección,Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Pascual Orozco (San Isidro),Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Paso Ancho,Oax.",
+		"Code": "958"
+	},
+	{
+		"Locality": "Paso de Arena,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Paso de Cuarenta,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "Paso de Ovejas,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Paso del Macho,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Paso Morelos (Cuetlajuchi),Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Paso Nacional,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Pastor Ortiz,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Pastoria,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Patambán (Patambam),Mich.",
+		"Code": "355"
+	},
+	{
+		"Locality": "Pátzcuaro,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Patzímaro de Aviña (Patzímaro del Rincón),Mich.",
+		"Code": "352"
+	},
+	{
+		"Locality": "Pedernales,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Pedriceña (Estación Pedriceña),Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Pedro Amaro,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Pedro Escobedo,Qro.",
+		"Code": "448"
+	},
+	{
+		"Locality": "Pedro Meoqui,Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Pegueros,Jal.",
+		"Code": "378"
+	},
+	{
+		"Locality": "Pemex (Ciudad Pemex),Tab.",
+		"Code": "936"
+	},
+	{
+		"Locality": "Penjamillo,Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "Pénjamo,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Peña Blanca,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Peñon Blanco,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Peñuelas (El Cienegal),Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Peralta,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Peribán de Ramos,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Pericos,Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Perote,Ver.",
+		"Code": "282"
+	},
+	{
+		"Locality": "Pesqueira,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Pesqueria,N.L.",
+		"Code": "825"
+	},
+	{
+		"Locality": "Petacalco,Gro.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Petalcingo,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Petatlán,Gro.",
+		"Code": "758"
+	},
+	{
+		"Locality": "Petlalcingo,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Peto,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Pichucalco,Chis.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Pie de Gallo,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Piedra Gorda,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Piedras Negras,Coah.",
+		"Code": "878"
+	},
+	{
+		"Locality": "Piedras Negras,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Pihuamo,Jal.",
+		"Code": "318"
+	},
+	{
+		"Locality": "Pijijiapan,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Pilcaya,Gro.",
+		"Code": "721"
+	},
+	{
+		"Locality": "Pilotos,Ags.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Pimienta,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Pinal de Amoles,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Pinos,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Pinotepa de Don Luis,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Pinotepa Nacional,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Piñicuaro,Gto.",
+		"Code": "445"
+	},
+	{
+		"Locality": "Pipioltepec (Santa María Pipioltepec),Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Pisaflores Hidalgo,Hgo.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Piste,Yuc.",
+		"Code": "985"
+	},
+	{
+		"Locality": "Pitiquito,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Pizándaro,Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Placeres del Oro,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Plan de Arroyos,Ver.",
+		"Code": "226"
+	},
+	{
+		"Locality": "Plan de Ayala (Santa Rosa),Gto.",
+		"Code": "477"
+	},
+	{
+		"Locality": "Plan de Ayala,Tamps.",
+		"Code": "831"
+	},
+	{
+		"Locality": "Plan de Iguala,S.L.P.",
+		"Code": "845"
+	},
+	{
+		"Locality": "Plan de las Hayas,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Plateros,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Platón Sánchez,Ver.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Playa Azul,Mich.",
+		"Code": "753"
+	},
+	{
+		"Locality": "Playa del Carmen,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Playa Vicente,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Playas del Rosario (Subteniente García),Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Plenitud,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Poblado Héroes de Chapultepec,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Poblado Número Cinco,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Poblado Número Seis (Los Natoches),Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Polotitlán,Méx.",
+		"Code": "427"
+	},
+	{
+		"Locality": "Pomuch,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Ponciano Arriaga,S.L.P.",
+		"Code": "845"
+	},
+	{
+		"Locality": "Poncitlán,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Popotla,B.C.",
+		"Code": "661"
+	},
+	{
+		"Locality": "Potam,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Potrerillo del Norote,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "Potrerillos,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Potrerillos,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "Potrero,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Poza Rica,Ver.",
+		"Code": "782"
+	},
+	{
+		"Locality": "Pozo de Gamboa,Zac.",
+		"Code": "478"
+	},
+	{
+		"Locality": "Pozo de Ibarra,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Pozos CD. Porfirio Díaz (Mineral),Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Praderas de la Hacienda (Antillón),Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Praderas del Potrero,Hgo.",
+		"Code": "591"
+	},
+	{
+		"Locality": "Praxedis G. Guerrero,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Primero de Mayo,Coah.",
+		"Code": "866"
+	},
+	{
+		"Locality": "Primo Tapia,B.C.",
+		"Code": "661"
+	},
+	{
+		"Locality": "Progreso de Alfonso Medina (Colonia Progreso),Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Progreso Industrial,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Progreso,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "Progreso,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Progreso,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Progreso,Yuc.",
+		"Code": "969"
+	},
+	{
+		"Locality": "Providencia,Son.",
+		"Code": "644"
+	},
+	{
+		"Locality": "Puebla,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Puebla,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Pueblito de Allende,Chih.",
+		"Code": "628"
+	},
+	{
+		"Locality": "Pueblo Juárez (La Magdalena),Col.",
+		"Code": "312"
+	},
+	{
+		"Locality": "Pueblo Mayo,Son.",
+		"Code": "642"
+	},
+	{
+		"Locality": "Pueblo Nuevo Comaltitlán,Chis.",
+		"Code": "918"
+	},
+	{
+		"Locality": "Pueblo Nuevo Solistahuacán,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Pueblo Nuevo,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Pueblo Sánchez Magallane,Tab.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Pueblo Tecamac,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Pueblo Viejo,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Pueblo Yaqui,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Pueblos Unidos,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Puente de Ixtla,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Puente Grande,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Puentecillas,Gto.",
+		"Code": "473"
+	},
+	{
+		"Locality": "Puerta de Andaracua,Gto.",
+		"Code": "456"
+	},
+	{
+		"Locality": "Puerta de Palmillas,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "Puerto Adolfo López Mateos,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Puerto Angel,Oax.",
+		"Code": "958"
+	},
+	{
+		"Locality": "Puerto Arista,Chis.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Puerto Aventuras,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Puerto Escondido,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Puerto Libertad,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Puerto Madero (San Benito),Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Puerto Morelos,Q.Roo",
+		"Code": "998"
+	},
+	{
+		"Locality": "Puerto Peñasco,Son.",
+		"Code": "638"
+	},
+	{
+		"Locality": "Puerto San Carlos,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Puerto Vallarta,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Pujal Coy,S.L.P.",
+		"Code": "845"
+	},
+	{
+		"Locality": "Pujiltic,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Punta Abreojos,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Punta Banda (El Rincón de Punta Banda),B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Punta Cólonet,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Punta del Agua,Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Purépero,Mich.",
+		"Code": "471"
+	},
+	{
+		"Locality": "Purísima de Bustos,Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "Puruándiro,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Puruarán,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Putla Villa de Guerrero,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Quebrantadero (San José),Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Quechultenango,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Queréndaro,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Querétaro,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Querobabi,Son.",
+		"Code": "641"
+	},
+	{
+		"Locality": "Quesería,Col.",
+		"Code": "318"
+	},
+	{
+		"Locality": "Quetchehueca,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Quila (Quila El Grande),Jal.",
+		"Code": "349"
+	},
+	{
+		"Locality": "Quila,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Quimichis,Nay.",
+		"Code": "389"
+	},
+	{
+		"Locality": "Quiringuicharo (La Hacienda),Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Quiroga,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Quitupán,Jal.",
+		"Code": "382"
+	},
+	{
+		"Locality": "Rafael Ramirez (Las Vigas),Ver.",
+		"Code": "282"
+	},
+	{
+		"Locality": "Ramón Corona,Dgo.",
+		"Code": "676"
+	},
+	{
+		"Locality": "Ramos Arizpe,Coah.",
+		"Code": "844"
+	},
+	{
+		"Locality": "Rancho Avándaro,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Rancho Contento,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Rancho Grande,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Rancho La Tijera,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Rancho Nuevo de la Cruz,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Rancho Nuevo de San Andrés,Gto.",
+		"Code": "456"
+	},
+	{
+		"Locality": "Rancho Nuevo,Chis.",
+		"Code": "967"
+	},
+	{
+		"Locality": "Rancho Nuevo,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Rancho Seco de Guantes,Gto.",
+		"Code": "456"
+	},
+	{
+		"Locality": "Rascón,S.L.P.",
+		"Code": "481"
+	},
+	{
+		"Locality": "Raudales Malpaso,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Rayón,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "Rayón,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Real de Catorce,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Reforma,Chis.",
+		"Code": "917"
+	},
+	{
+		"Locality": "Refugio,Qro.",
+		"Code": "487"
+	},
+	{
+		"Locality": "República Mexicana,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Revolución Mexicana,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "Revolución Mexicana,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Reynosa,Tamps.",
+		"Code": "899"
+	},
+	{
+		"Locality": "Ricardo Flores Magón (El Carmen),Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Rincón de Guayabitos,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Rincón de López,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Rincón de Romos,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "Rincón de Tamayo,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Rincón del Porvenir,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Rincón Juárez,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Rinconada,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Río Blanco,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Río Bravo,Tamps.",
+		"Code": "899"
+	},
+	{
+		"Locality": "Río Florido,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "Río Frío,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Río Grande,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Río Grande,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Río Lagartos,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Río Laja,Gto.",
+		"Code": "418"
+	},
+	{
+		"Locality": "Rioverde,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "Rodeo,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "Rodrigo M. Quevedo,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Rodríguez Clara,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Romita,Gto.",
+		"Code": "432"
+	},
+	{
+		"Locality": "Rosamorada,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Rosario Tesopaco,Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Rosario,Sin.",
+		"Code": "694"
+	},
+	{
+		"Locality": "Rosarito (Campo 30-06),B.C.",
+		"Code": "661"
+	},
+	{
+		"Locality": "Ruben Jaramillo,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Ruiz,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Rumorosa,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "Sabana Grande,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Sabancuy,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Sabinas Hidalgo,N.L.",
+		"Code": "824"
+	},
+	{
+		"Locality": "Sabinas,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "Sahuaripa,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Sahuayo,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Sain Alto,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Saladero,Ver.",
+		"Code": "768"
+	},
+	{
+		"Locality": "Saladillo (El Saladillo),Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Salamanca,Gto.",
+		"Code": "464"
+	},
+	{
+		"Locality": "Salazar,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "Saldarriaga,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Salina Cruz,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Salinas de Hidalgo,S.L.P.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Salinas Victoria,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Salitral de Carrera,S.L.P.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Saltillo,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Saltillo,Coah.",
+		"Code": "844"
+	},
+	{
+		"Locality": "Salto de Agua,Chis.",
+		"Code": "916"
+	},
+	{
+		"Locality": "Salto de Tepuxtepec (Tepuxtepec),Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Salvatierra,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Samalayuca,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "San Agustín Amatengo,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Agustin Etla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Agustín Tlaxiaca,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "San Agustín Zapotlán,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "San Andrés Calpan,Pue.",
+		"Code": "227"
+	},
+	{
+		"Locality": "San Andrés Coru,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "San Andrés Cuexcontitlán,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Andrés Cholula,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Andrés Figueroa,Jal.",
+		"Code": "326"
+	},
+	{
+		"Locality": "San Andrés Huaxpaltepec,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "San Andrés La Venta,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "San Andrés Timilpan,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Andrés Tlalamac,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "San Andrés Tuxtla,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "San Andrés Zirondaro,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "San Andrés,Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "San Antonio Atotonilco,Tlax.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Antonio Chiltepec,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "San Antonio de Fernández,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "San Antonio de los Vázquez,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "San Antonio de Mogotes,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "San Antonio del Mar,B.C.",
+		"Code": "664"
+	},
+	{
+		"Locality": "San Antonio del Rosario,Méx.",
+		"Code": "767"
+	},
+	{
+		"Locality": "San Antonio Guaracha,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "San Antonio La Isla,Méx.",
+		"Code": "717"
+	},
+	{
+		"Locality": "San Antonio Ocampo (Rincón del Tepetate),Mich.",
+		"Code": "355"
+	},
+	{
+		"Locality": "San Antonio Puerta de la Vega,Jal.",
+		"Code": "375"
+	},
+	{
+		"Locality": "San Antonio Rayón,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "San Antonio Tecomitl,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Antonio Tenextepec,Ver.",
+		"Code": "282"
+	},
+	{
+		"Locality": "San Antonio Texcala,Pue.",
+		"Code": "237"
+	},
+	{
+		"Locality": "San Antonio Villalongín,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "San Baltazar Guelavila,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Baltazar Temaxcalac,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Baltazar Tetela,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Bartolo Coyotepec,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Bartolo Cuautlalpan,Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "San Bartolo Cuitareo (Cuitareo),Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "San Bartolo Morelos,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Bartolo Tutotepec,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "San Bartolomé Cuahuixmatlac,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "San Bernardo Tlalmimilolpan,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "San Bernardo,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "San Blas,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "San Blas,Sin.",
+		"Code": "698"
+	},
+	{
+		"Locality": "San Buenaventura Nealtican,Pue.",
+		"Code": "227"
+	},
+	{
+		"Locality": "San Buenaventura Tecaltzingo,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Buenaventura,Coah.",
+		"Code": "869"
+	},
+	{
+		"Locality": "San Buenaventura,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "San Buenaventura,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "San Carlos Nuevo Guaymas,Son.",
+		"Code": "622"
+	},
+	{
+		"Locality": "San Cayetano,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "San Ciro de Acosta,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "San Clemente,Jal.",
+		"Code": "316"
+	},
+	{
+		"Locality": "San Cosme Xalostoc,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "San Cristóbal (El Cerrito),Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "San Cristóbal de Ayala (San Cristóbal),Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "San Cristóbal de la Barranca,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "San Cristóbal de las Casas,Chis.",
+		"Code": "967"
+	},
+	{
+		"Locality": "San Cristóbal,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "San Damián Texoloc,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "San Diego de Alejandría,Jal.",
+		"Code": "395"
+	},
+	{
+		"Locality": "San Diego de la Unión,Gto.",
+		"Code": "418"
+	},
+	{
+		"Locality": "San Diego,S.L.P.",
+		"Code": "487"
+	},
+	{
+		"Locality": "San Dionisio Ocotepec,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Esteban,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "San Felipe (El Chilarillo),Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "San Felipe Aztatán,Nay.",
+		"Code": "389"
+	},
+	{
+		"Locality": "San Felipe del Progreso,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Felipe Guanajuato,Gto.",
+		"Code": "428"
+	},
+	{
+		"Locality": "San Felipe Jalapa de Díaz,Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "San Felipe Orizatlán,Hgo.",
+		"Code": "483"
+	},
+	{
+		"Locality": "San Felipe Teotlalcingo,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Felipe,B.C.",
+		"Code": "686"
+	},
+	{
+		"Locality": "San Felipe,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "San Felix Rijo,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "San Fernando,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "San Fernando,Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "San Francisco Coacalco,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Francisco Cuapa,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Francisco Cheje,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Francisco Chimalpa,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "San Francisco de Borja,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "San Francisco de Conchos,Chih.",
+		"Code": "648"
+	},
+	{
+		"Locality": "San Francisco de los Romo,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "San Francisco de Rivas,Jal.",
+		"Code": "393"
+	},
+	{
+		"Locality": "San Francisco del Mezquital,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "San Francisco del Oro,Chih.",
+		"Code": "628"
+	},
+	{
+		"Locality": "San Francisco del Rincón,Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "San Francisco Ixhuatán,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "San Francisco Magu,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "San Francisco Ocotlán (Ocotlán),Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Francisco Periban,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "San Francisco Tepeolulco,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "San Francisco Tepeyecac,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Francisco Xonacatlán,Méx.",
+		"Code": "719"
+	},
+	{
+		"Locality": "San Francisco Zacacalco,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "San Francisco,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "San Gabriel Docuan,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "San Gabriel (San Gabriel y San Ignacio),Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "San Gabriel Chilac,Pue.",
+		"Code": "237"
+	},
+	{
+		"Locality": "San Gabriel,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "San Gaspar de los Reyes (San Gaspar),Jal.",
+		"Code": "431"
+	},
+	{
+		"Locality": "San Germán,Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "San Ignacio Cerro Gordo,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "San Ignacio Río Muerto (Colonia Militar),Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "San Ignacio,Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "San Ignacio,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "San Ignacio,Sin.",
+		"Code": "696"
+	},
+	{
+		"Locality": "San Ignacio,Son.",
+		"Code": "632"
+	},
+	{
+		"Locality": "San Isidro (Río Grande),Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "San Isidro Mazatepec,Jal.",
+		"Code": "379"
+	},
+	{
+		"Locality": "San Isidro,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "San Jeronimito (San Jerónimo),Gro.",
+		"Code": "758"
+	},
+	{
+		"Locality": "San Jerónimo Amanalco,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "San Jerónimo Coyula,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "San Jerónimo de Juárez,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "San Jerónimo Tianguismanalco,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Jerónimo Tlacochahuaya,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Jerónimo Xayacatlán,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Jerónimo,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "San Joaquín,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "San Jorge Nuchita,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San José Acateno,Pue.",
+		"Code": "232"
+	},
+	{
+		"Locality": "San José Alchichica,Pue.",
+		"Code": "282"
+	},
+	{
+		"Locality": "San José Babicora,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "San José Casas Caídas,Jal.",
+		"Code": "393"
+	},
+	{
+		"Locality": "San José Chiltepec,Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "San José de Ahome,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "San José de Aura,Coah.",
+		"Code": "861"
+	},
+	{
+		"Locality": "San José de Bacum,Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "San José de Gracia,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "San José de Gracia,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "San José de Gracia,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "San José de Gracia,Mich.",
+		"Code": "381"
+	},
+	{
+		"Locality": "San José de la Paz,Jal.",
+		"Code": "392"
+	},
+	{
+		"Locality": "San José de las Moras,Jal.",
+		"Code": "393"
+	},
+	{
+		"Locality": "San José de los Reynoso,Jal.",
+		"Code": "474"
+	},
+	{
+		"Locality": "San José de Lourdes,Zac.",
+		"Code": "493"
+	},
+	{
+		"Locality": "San José de Merino,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "San José de Tuitán (Tuitán),Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "San José del Cabo,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "San José del Castillo,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "San José del Progreso,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San José del Rincón,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San José del Valle,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "San José El Vidrio,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "San José Huipana (Huipana),Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "San José Iturbide,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "San José Poliutla,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "San José Temascatio,Gto.",
+		"Code": "464"
+	},
+	{
+		"Locality": "San José Tilapa,Pue.",
+		"Code": "236"
+	},
+	{
+		"Locality": "San José Tlautla,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San José Viejo,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "San José Vistahermosa,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "San Juan Acatitlán (Acatitlán),Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "San Juan Amecac,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "San Juan Atenco,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "San Juan Bautista lo de Soto,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "San Juan Bautista Valle Nacional,Oax.",
+		"Code": "283"
+	},
+	{
+		"Locality": "San Juan Cacahuatepec,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "San Juan Cosala,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "San Juan Cuautlancingo,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Juan de Abajo,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "San Juan de Guadalupe,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "San Juan de la Vega,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "San Juan de los Lagos,Jal.",
+		"Code": "395"
+	},
+	{
+		"Locality": "San Juan de Viña,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "San Juan del Estado,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Juan del Llanito,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "San Juan del Río del Centauro del Norte,Dgo.",
+		"Code": "677"
+	},
+	{
+		"Locality": "San Juan del Río,Qro.",
+		"Code": "427"
+	},
+	{
+		"Locality": "San Juan Epatlán,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "San Juan Evangelista,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "San Juan Guichicovi,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "San Juan Ixcaquixtla,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "San Juan Ixtayopan,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Juan Mixtepec -distr. 08-,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Juan Pueblo Nuevo,Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "San Juan Tecomatlán,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "San Juan Tetelcingo,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "San Juan Tilapa,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Juan Tilcuautla,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "San Juan Tizahuapan,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "San Juan Tlacotenco,Mor.",
+		"Code": "739"
+	},
+	{
+		"Locality": "San Juan Xochiaca,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "San Juan,N.L.",
+		"Code": "828"
+	},
+	{
+		"Locality": "San Juanito,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "San Julián,Jal.",
+		"Code": "347"
+	},
+	{
+		"Locality": "San Lorenzo (Mp.Buenaventura),Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "San Lorenzo (Mp.Dr.Belisario D),Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "San Lorenzo Acopilco,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Lorenzo Cacaotepec,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Lorenzo Cuapiaxtla,Tlax.",
+		"Code": "276"
+	},
+	{
+		"Locality": "San Lorenzo Chiautzingo,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Lorenzo Huitzizilapan,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "San Lorenzo Malacota,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Lucas El Grande,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Lucas Ojitlán,Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "San Lucas Tulcingo (Tulcingo),Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "San Lucas,Mich.",
+		"Code": "435"
+	},
+	{
+		"Locality": "San Luis Acatlán,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "San Luis Ayucan,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "San Luis de la Loma,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "San Luis de la Paz,Gto.",
+		"Code": "468"
+	},
+	{
+		"Locality": "San Luis del Cordero,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "San Luis Potosí,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "San Luis Río Colorado,Son.",
+		"Code": "653"
+	},
+	{
+		"Locality": "San Luis Soyatlán,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "San Luis Tecuahutitlán,Méx.",
+		"Code": "596"
+	},
+	{
+		"Locality": "San Luis Tehuiloyocan,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Marcos (Mp.Zacoalco de Torres,Jal",
+		"Code": "326"
+	},
+	{
+		"Locality": "San Marcos (Mpio. San Marcos),Jal.",
+		"Code": "386"
+	},
+	{
+		"Locality": "San Marcos (Mpio. Tonila),Jal.",
+		"Code": "318"
+	},
+	{
+		"Locality": "San Marcos Carmona,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "San Marcos Contla,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "San Marcos Nepantla,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "San Marcos,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "San Maria Atarasquillo,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "San Martín Cachihuapan,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "San Martín Cuautlalpan,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Martín Chalchicuautla,S.L.P.",
+		"Code": "483"
+	},
+	{
+		"Locality": "San Martín de las Flores de Abajo,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "San Martín de las Flores,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "San Martín de las Pirámides,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "San Martín de Zula (Zula),Jal.",
+		"Code": "392"
+	},
+	{
+		"Locality": "San Martín Hidalgo,Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "San Martín Pachivia,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "San Martín Peras,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Martín Texmelucan de Labastida,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Martin Xaltocan,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "San Martín,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "San Martinito,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Mateo Atenco,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "San Mateo Otzacatipan,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Mateo Oxtotitlán,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Mateo Tepetitla,Tlax.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Mateo Tocuaro (Tocuaro),Gto.",
+		"Code": "417"
+	},
+	{
+		"Locality": "San Mateo,Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "San Miguel Ajusco,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Miguel Canoa,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Miguel Cuyutlán,Jal.",
+		"Code": "379"
+	},
+	{
+		"Locality": "San Miguel de Allende,Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "San Miguel de Cruces,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "San Miguel El Alto,Jal.",
+		"Code": "347"
+	},
+	{
+		"Locality": "San Miguel Emenguaro (Emenguaro),Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "San Miguel Epejan,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "San Miguel Ixtapan,Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "San Miguel Jaltepec,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "San Miguel Mimiapan,Méx.",
+		"Code": "719"
+	},
+	{
+		"Locality": "San Miguel Octopan,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "San Miguel Sola de Vega,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Miguel Taimeo (Taimeo),Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "San Miguel Tecuixiapan,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "San Miguel Tenextatiloyan,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "San Miguel Tlacotepec,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Miguel Tlaixpan,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "San Miguel Topilejo,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Miguel Totolapan,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "San Miguel Xoxtla,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Miguel Zapotitlán,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "San Miguel Zapotitlán,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "San Miguel Zinacantepec,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Miguel,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "San Nicolás (San Nicolás de Acuña),Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "San Nicolás de Buenos Aires,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "San Nicolás de Carretas,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "San Nicolás de la Condesa,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "San Nicolás de los Agustinos,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "San Nicolás de los Garza,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "San Nicolás de Presidio (Presidio de Arriba),Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "San Nicolás Tetelco,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Nicolás,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "San Nicolás,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "San Nicolás,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "San Pablito,Pue.",
+		"Code": "776"
+	},
+	{
+		"Locality": "San Pablo Amicano,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "San Pablo Atlazalpan,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Pablo Autopan,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Pablo Balleza,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "San Pablo Casacuarán (San Pablo),Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "San Pablo de las Tunas,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "San Pablo Huitzo,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Pablo Oztotepec,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Pablo Pejo (San Pablo),Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "San Patricio (Melaque),Jal.",
+		"Code": "315"
+	},
+	{
+		"Locality": "San Pedro Amuzgos,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "San Pedro Apóstol,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Pedro Atlapulco,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "San Pedro Atocpan,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "San Pedro Benito Juárez,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "San Pedro Buenavista,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "San Pedro Comitancillo,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "San Pedro Cuayuca,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "San Pedro de la Cueva,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "San Pedro de los Naranjos,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "San Pedro de Tututepec,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "San Pedro del Gallo,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "San Pedro Garza García,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "San Pedro Ixtlahuaca,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Pedro Jácuaro (Las Joyas),Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "San Pedro Lagunillas,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "San Pedro Limón,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "San Pedro los Baños,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Pedro O Saucito (San Pedro El Saucito),Son.",
+		"Code": "662"
+	},
+	{
+		"Locality": "San Pedro Piedra Gorda,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "San Pedro Pochutla,Oax.",
+		"Code": "958"
+	},
+	{
+		"Locality": "San Pedro Tapanatepec,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "San Pedro Tenango El Viejo,Gto.",
+		"Code": "413"
+	},
+	{
+		"Locality": "San Pedro Tesistán,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "San Pedro Tlachichilco,Hgo.",
+		"Code": "776"
+	},
+	{
+		"Locality": "San Pedro Totolapa,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "San Pedro Totoltepec,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "San Pedro y San Pablo Teposcolula,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Pedro Zacachimalpa,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Pedro,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "San Quintín,B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "San Rafael de Arriba,Coah.",
+		"Code": "872"
+	},
+	{
+		"Locality": "San Rafael Tlanalapan,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Rafael,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "San Rafael,N.L.",
+		"Code": "826"
+	},
+	{
+		"Locality": "San Rafael,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "San Ramón,Jal.",
+		"Code": "393"
+	},
+	{
+		"Locality": "San Roque de Montes (San Roque),Gto.",
+		"Code": "476"
+	},
+	{
+		"Locality": "San Roque,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "San Salvador Atenco,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "San Salvador El Seco,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "San Salvador El Verde,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "San Salvador Huixcolotla,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "San Salvador Torrecillas,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "San Salvador Tzompantepec,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "San Salvador,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "San Sebastián (San Sebastián Buenos Aires),Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "San Sebastián Aparicio,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "San Sebastián del Alamo,Jal.",
+		"Code": "475"
+	},
+	{
+		"Locality": "San Sebastián El Grande,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "San Sebastián Tenochtitlán,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "San Sebastián Villanueva,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "San Simeon Xipetzinco,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "San Simón de Guerrero,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "San Simon Yehualtepec,Pue.",
+		"Code": "237"
+	},
+	{
+		"Locality": "San Tadeo,Ags.",
+		"Code": "495"
+	},
+	{
+		"Locality": "San Tiburcio,Zac.",
+		"Code": "842"
+	},
+	{
+		"Locality": "San Vicente Boquerón,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "San Vicente Chicoloapán,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "San Vicente de Juárez (Las Piedras),Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "San Vicente Palapa,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "San Vicente Tancuayalab,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "San Vicente,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "San Vicente,N.L.",
+		"Code": "823"
+	},
+	{
+		"Locality": "San Vicente,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Sanctorum Lázaro Cárdenas,Tlax.",
+		"Code": "748"
+	},
+	{
+		"Locality": "Sánchez Celis (El Gato de Lara),Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Sánchez Celis,Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Sandoval,Tamps.",
+		"Code": "868"
+	},
+	{
+		"Locality": "Santa Ana Ahuehuepan,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Santa Ana Amatlán (Santa Ana),Mich.",
+		"Code": "426"
+	},
+	{
+		"Locality": "Santa Ana de Allende,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Santa Ana del Aguila,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Santa Ana Hueytlalpan,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Santa Ana Jilotzingo,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Santa Ana Maya,Mich.",
+		"Code": "455"
+	},
+	{
+		"Locality": "Santa Ana Nopalucan,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Santa Ana,Son.",
+		"Code": "641"
+	},
+	{
+		"Locality": "Santa Apolonia,Tamps.",
+		"Code": "894"
+	},
+	{
+		"Locality": "Santa Bárbara de Tutuaca (Tutuaca),Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Santa Bárbara,Chih.",
+		"Code": "628"
+	},
+	{
+		"Locality": "Santa Catarina Juquila,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Santa Catarina Yecahuitzotl,D.F.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Santa Catarina,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "Santa Catarina,Mor.",
+		"Code": "739"
+	},
+	{
+		"Locality": "Santa Catarina,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Santa Clara del Cobre,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Santa Clara del Tule,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Santa Clara Ocoyucan,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Santa Clara,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Santa Cruz Amilpas,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa Cruz Atizapán,Méx.",
+		"Code": "713"
+	},
+	{
+		"Locality": "Santa Cruz Ayotuzco,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "Santa Cruz de las Flores,Jal.",
+		"Code": "379"
+	},
+	{
+		"Locality": "Santa Cruz de Miramar,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Santa Cruz de Rosales,Chih.",
+		"Code": "639"
+	},
+	{
+		"Locality": "Santa Cruz del Astillero,Jal.",
+		"Code": "374"
+	},
+	{
+		"Locality": "Santa Cruz del Valle,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Santa Cruz El Grande,Jal.",
+		"Code": "392"
+	},
+	{
+		"Locality": "Santa Cruz Papalutla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa Cruz Xitla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa Cruz Xoxocotlán,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa Cruz,Son.",
+		"Code": "645"
+	},
+	{
+		"Locality": "Santa Elena (Francisco Zarco),Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Santa Eulalia,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "Santa Fe del Río,Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "Santa Fe,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Santa Fe,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Santa Gertrudis (La Hacienda),Chih.",
+		"Code": "621"
+	},
+	{
+		"Locality": "Santa Gertrudis,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa Inés Ahuatempan,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Santa Isabel Tlanepantla,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Santa Isabel,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "Santa Lucía Cosamaloapan,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "Santa María Ajoloapan,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "Santa María Canchesda,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Santa María Coronango,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Santa María Cuevas (Cuevas),Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "Santa María Chilapa de Díaz,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santa María de Abajo,Jal.",
+		"Code": "475"
+	},
+	{
+		"Locality": "Santa María del Monte,Méx.",
+		"Code": "725"
+	},
+	{
+		"Locality": "Santa María del Oro,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Santa María del Oro,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Santa María del Río,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Santa María del Tule,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santa María del Valle,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "Santa María Huatulco,Oax.",
+		"Code": "958"
+	},
+	{
+		"Locality": "Santa María Huiramangaro (San Juan),Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Santa María Jajalpa,Méx.",
+		"Code": "717"
+	},
+	{
+		"Locality": "Santa María Magdalena Cahuacán,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Santa María Mazatla,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Santa María Mixtequilla,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Santa María Moyotzingo,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "Santa Maria Nativitas,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Santa María Tecomavaca,Oax.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Santa María Tlalmimilolpan,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "Santa María Xadani,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Santa María Xonacatepec,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Santa María Zacatepec,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Santa Mateo Atarasquillo,Méx.",
+		"Code": "728"
+	},
+	{
+		"Locality": "Santa Matilde,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Santa Mónica Ozumbilla (Ozumbilla),Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Santa Mónica,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Santa Rita Tlahuapan,Pue.",
+		"Code": "248"
+	},
+	{
+		"Locality": "Santa Rita,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Santa Rosa Jáuregui,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Santa Rosa,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Santa Rosalía de Cuevas,Chih.",
+		"Code": "625"
+	},
+	{
+		"Locality": "Santa Rosalía,B.C.S.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Santa Rosalía,Tamps.",
+		"Code": "891"
+	},
+	{
+		"Locality": "Santa Teresa,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Santa Teresa,Gto.",
+		"Code": "473"
+	},
+	{
+		"Locality": "Santander Jiménez,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Santas Marías,Gto.",
+		"Code": "415"
+	},
+	{
+		"Locality": "Santiago Acutzilapan,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Santiago Alseseca,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Santiago Coachochitlán,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Santiago Conguripo,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Santiago Cuautlalpan (Mp.Tepotzot,Mex",
+		"Code": "55"
+	},
+	{
+		"Locality": "Santiago Cuautlalpan (Mp.Texcoco),Méx",
+		"Code": "595"
+	},
+	{
+		"Locality": "Santiago Chazumba,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santiago de Anaya,Hgo.",
+		"Code": "772"
+	},
+	{
+		"Locality": "Santiago de Cuenda,Gto.",
+		"Code": "412"
+	},
+	{
+		"Locality": "Santiago de la Peña,Ver.",
+		"Code": "783"
+	},
+	{
+		"Locality": "Santiago Ixcuintla,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Santiago Jamiltepec,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Santiago Juxtlahuaca,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santiago Maravatío,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Santiago Matatlán,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santiago Miahuatlán,Pue.",
+		"Code": "238"
+	},
+	{
+		"Locality": "Santiago Niltepec,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Santiago Oxtotitlán,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Santiago Papasquiaro,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Santiago Tamazola,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santiago Tangamandapio,Mich.",
+		"Code": "383"
+	},
+	{
+		"Locality": "Santiago Tenango,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Santiago Tepeyahualco,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Santiago Tezontlale,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Santiago Tianguistenco,Méx.",
+		"Code": "713"
+	},
+	{
+		"Locality": "Santiago Tingambato,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Santiago Tlapacoya,Hgo.",
+		"Code": "771"
+	},
+	{
+		"Locality": "Santiago Tlautla,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Santiago Tolman,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "Santiago Tulantepec,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Santiago Tuxtla,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Santiago Undameo,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Santiago Yeche,Méx.",
+		"Code": "712"
+	},
+	{
+		"Locality": "Santiago Yolomecatl,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santiago( El Cercado ),N.L.",
+		"Code": "827"
+	},
+	{
+		"Locality": "Santiago,B.C.S.",
+		"Code": "624"
+	},
+	{
+		"Locality": "Santiaguito de Velázquez,Jal.",
+		"Code": "348"
+	},
+	{
+		"Locality": "Santo Domingo Atoyatempan,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "Santo Domingo Chihuitán,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Santo Domingo Huehuetlán,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Santo Domingo Ingenio,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Santo Domingo Petapa,Oax.",
+		"Code": "972"
+	},
+	{
+		"Locality": "Santo Domingo Tonalá,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Santo Domingo Yanhuitlán,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Santo Domingo Zanatepec,Oax.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Santo Niño Aguanaval,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Santo Tomás Apipilhuasco (Santo Tomás),Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Santo Tomás Chautla,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Santo Tomás Hueyotlipan,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Santo Tomás,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Santo Tomás,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Santo Tomás,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Santos Reyes Nopala,Oax.",
+		"Code": "954"
+	},
+	{
+		"Locality": "Sarabia,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Saric,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Sasabe,Son.",
+		"Code": "637"
+	},
+	{
+		"Locality": "Satevo,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "Sauceda de la Borda,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Saucillo,Chih.",
+		"Code": "621"
+	},
+	{
+		"Locality": "Sauta,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Sayula de Alemán,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Sayula,Jal.",
+		"Code": "342"
+	},
+	{
+		"Locality": "Sección Enríquez (Colonia Enriquez),Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Senguio,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Sentispac,Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Sergio Butrón Casas,Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Seybaplaya,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Seye,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Sihochac,Camp.",
+		"Code": "982"
+	},
+	{
+		"Locality": "Silacayoapam,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Silao,Gto.",
+		"Code": "472"
+	},
+	{
+		"Locality": "Simojovel,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Sinaloa de Leyva,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Singuilucan,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Sisoguichi,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Socoltenango,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Soledad de Doblado,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Soledad de Graciano Sánchez,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Soledad Etla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Soltepec,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Sombrerete,Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Sonoita,Son.",
+		"Code": "651"
+	},
+	{
+		"Locality": "Soto La Marina,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Sotuta,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Soyatitán,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Subteniente López (Santa Elena),Q.Roo",
+		"Code": "983"
+	},
+	{
+		"Locality": "Sucila,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Suchiapa,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Suchiate,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Suchil,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "Suchilapan del Río,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Sultepec,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Sumidero,Ver.",
+		"Code": "272"
+	},
+	{
+		"Locality": "Suspiro Picacho,S.L.P.",
+		"Code": "444"
+	},
+	{
+		"Locality": "Susupuato de Guerrero,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Tabasco,Zac.",
+		"Code": "463"
+	},
+	{
+		"Locality": "Tacámbaro,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Tacoaleche,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Tacotalpa,Tab.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Tacubaya,Gto.",
+		"Code": "469"
+	},
+	{
+		"Locality": "Tafetán,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Tahmek,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Tala,Jal.",
+		"Code": "384"
+	},
+	{
+		"Locality": "Talpa de Allende,Jal.",
+		"Code": "388"
+	},
+	{
+		"Locality": "Tamalín,Ver.",
+		"Code": "768"
+	},
+	{
+		"Locality": "Tamán,S.L.P.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Tamasopo,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Tamazula de Victoria,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Tamazula,Jal.",
+		"Code": "358"
+	},
+	{
+		"Locality": "Tamazula,Sin.",
+		"Code": "687"
+	},
+	{
+		"Locality": "Tamazulita,Jal.",
+		"Code": "385"
+	},
+	{
+		"Locality": "Tamazunchale,S.L.P.",
+		"Code": "483"
+	},
+	{
+		"Locality": "Tambaca,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Tamiahua,Ver.",
+		"Code": "768"
+	},
+	{
+		"Locality": "Tamos,Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Tampamolón Corona,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Tampico Alto,Ver.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Tampico,Tamps.",
+		"Code": "833"
+	},
+	{
+		"Locality": "Tamuín,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Tamulte de las Sabanas,Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Tancanhuitz,S.L.P.",
+		"Code": "482"
+	},
+	{
+		"Locality": "Tancítaro,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Tangancícuaro,Mich.",
+		"Code": "355"
+	},
+	{
+		"Locality": "Tanganhuato,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Tanhuato de Guerrero,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Tanlajas,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Tanquián de Escobedo,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Tantoyuca,Ver.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Tapachula,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Tapalpa,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "Tapilula,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Tarandacuao,Gto.",
+		"Code": "421"
+	},
+	{
+		"Locality": "Taretán,Mich.",
+		"Code": "422"
+	},
+	{
+		"Locality": "Tarímbaro,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Tarimoro,Gto.",
+		"Code": "466"
+	},
+	{
+		"Locality": "Tarimoro,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Tasinaxtla (La Cañada),Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "Tasquillo,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "Taxco,Gro.",
+		"Code": "762"
+	},
+	{
+		"Locality": "Tayahua (San José de Tayahua),Zac.",
+		"Code": "499"
+	},
+	{
+		"Locality": "Tayoltita,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Teacapan,Sin.",
+		"Code": "695"
+	},
+	{
+		"Locality": "Teapa,Tab.",
+		"Code": "932"
+	},
+	{
+		"Locality": "Tecali de Herrera,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Tecalitlán,Jal.",
+		"Code": "371"
+	},
+	{
+		"Locality": "Tecamachalco,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Tecate,B.C.",
+		"Code": "665"
+	},
+	{
+		"Locality": "Tecoanapa,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Tecoh,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Tecolotlán,Jal.",
+		"Code": "349"
+	},
+	{
+		"Locality": "Tecolutilla,Tab.",
+		"Code": "933"
+	},
+	{
+		"Locality": "Tecolutla,Ver.",
+		"Code": "766"
+	},
+	{
+		"Locality": "Tecomán,Col.",
+		"Code": "313"
+	},
+	{
+		"Locality": "Tecomatán,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Tecomatlán (San Miguel Tecomatlán),Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Tecomatlán,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Tecozautla,Hgo.",
+		"Code": "761"
+	},
+	{
+		"Locality": "Tecpan de Galeana,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Tecpatán,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Tecuala,Nay.",
+		"Code": "389"
+	},
+	{
+		"Locality": "Tecualtitán,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Tehuacán,Pue.",
+		"Code": "238"
+	},
+	{
+		"Locality": "Tehuantepec,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Tehuetlán,Hgo.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Tehuitzingo,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Tehuixtla,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Tejupilco de Hidalgo,Méx.",
+		"Code": "724"
+	},
+	{
+		"Locality": "Tekanto,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Tekax,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Tekit,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Telchac Pueblo,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Telchac Puerto,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Telixtac,Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Teloloapan,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Temalacatzingo,Gro.",
+		"Code": "756"
+	},
+	{
+		"Locality": "Temascal,Oax.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Temascalapa,Méx.",
+		"Code": "596"
+	},
+	{
+		"Locality": "Temascalcingo,Méx.",
+		"Code": "718"
+	},
+	{
+		"Locality": "Temascaltepec,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Temastian,Jal.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Temax,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Temixco,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Temoaya,Méx.",
+		"Code": "719"
+	},
+	{
+		"Locality": "Temoris,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Temosachi,Chih.",
+		"Code": "659"
+	},
+	{
+		"Locality": "Temozón,Yuc.",
+		"Code": "985"
+	},
+	{
+		"Locality": "Tempoal de Sánchez,Ver.",
+		"Code": "789"
+	},
+	{
+		"Locality": "Tenabo,Camp.",
+		"Code": "996"
+	},
+	{
+		"Locality": "Tenamaxtlán,Jal.",
+		"Code": "349"
+	},
+	{
+		"Locality": "Tenampulco,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Tenancingo,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Tenango de Arista,Méx.",
+		"Code": "717"
+	},
+	{
+		"Locality": "Tenango de Doria,Hgo.",
+		"Code": "776"
+	},
+	{
+		"Locality": "Tenango del Aire,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Tenango,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Tenantongo (Avándaro),Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Tenejapa,Chis.",
+		"Code": "967"
+	},
+	{
+		"Locality": "Tenenexpan,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Tenexpa,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Tenextepango,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Tenjay,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Tenosique,Tab.",
+		"Code": "934"
+	},
+	{
+		"Locality": "Teñhe,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Teocalco,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Teocaltiche,Jal.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Teocelo,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Teocuitatlán de Corona,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Teoloyucan,Méx.",
+		"Code": "593"
+	},
+	{
+		"Locality": "Teopantlán,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Teopisca,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Teotihuacán,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "Teotitlán de Flores Magón,Oax.",
+		"Code": "236"
+	},
+	{
+		"Locality": "Teotitlán del Valle,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Tepache,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Tepalcatepec,Mich.",
+		"Code": "424"
+	},
+	{
+		"Locality": "Tepalcingo,Mor.",
+		"Code": "769"
+	},
+	{
+		"Locality": "Tepanco de López,Pue.",
+		"Code": "238"
+	},
+	{
+		"Locality": "Tepatepec,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Tepatitlan de Morelos,Jal.",
+		"Code": "378"
+	},
+	{
+		"Locality": "Tepatlaxco de Hidalgo,Pue.",
+		"Code": "223"
+	},
+	{
+		"Locality": "Tepeaca,Pue.",
+		"Code": "223"
+	},
+	{
+		"Locality": "Tepecoacuilco de Trujano,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Tepechitlán,Zac.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Tepehuanes,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Tepeji de Ocampo,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Tepetitlán,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Tepetixtla,Gro.",
+		"Code": "781"
+	},
+	{
+		"Locality": "Tepetlán,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Tepetlaoxtoc,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Tepetongo,Zac.",
+		"Code": "494"
+	},
+	{
+		"Locality": "Tepetzintla,Ver.",
+		"Code": "785"
+	},
+	{
+		"Locality": "Tepexco,Pue.",
+		"Code": "243"
+	},
+	{
+		"Locality": "Tepexi de Rodríguez,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Tepexpan,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "Tepezala,Ags.",
+		"Code": "465"
+	},
+	{
+		"Locality": "Tepic,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "Tepojaco,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Tepotzotlán,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Tepoztlán,Mor.",
+		"Code": "739"
+	},
+	{
+		"Locality": "Tepusco,Jal.",
+		"Code": "495"
+	},
+	{
+		"Locality": "Tepuzhuacán,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Tequesquitengo,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Tequesquitlán,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Tequexquinahuac,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Tequexquitla,Tlax.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Tequila,Jal.",
+		"Code": "374"
+	},
+	{
+		"Locality": "Tequila,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Tequisquiapan,Qro.",
+		"Code": "414"
+	},
+	{
+		"Locality": "Tequixquiac,Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "Tesistán (San Francisco Tesistán),Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Tetecala,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Tetela de Ocampo,Pue.",
+		"Code": "797"
+	},
+	{
+		"Locality": "Tetela del Volcán,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Tetela,Oax.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Teteles,Pue.",
+		"Code": "231"
+	},
+	{
+		"Locality": "Tetillas,Zac.",
+		"Code": "498"
+	},
+	{
+		"Locality": "Tetitlán,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Tetitlán,Nay.",
+		"Code": "324"
+	},
+	{
+		"Locality": "Tetla,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Teuchitlán,Jal.",
+		"Code": "384"
+	},
+	{
+		"Locality": "Teul de González Ortega,Zac.",
+		"Code": "467"
+	},
+	{
+		"Locality": "Texcaltitlán,Méx.",
+		"Code": "716"
+	},
+	{
+		"Locality": "Texcoco de Mora,Méx.",
+		"Code": "595"
+	},
+	{
+		"Locality": "Texistepec,Ver.",
+		"Code": "924"
+	},
+	{
+		"Locality": "Teziutlán,Pue.",
+		"Code": "231"
+	},
+	{
+		"Locality": "Tezoatlán de Segura y Luna,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Tezonapa,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Tezontepec de Aldama,Hgo.",
+		"Code": "763"
+	},
+	{
+		"Locality": "Tezoyuca,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "Tezuapan,Pue.",
+		"Code": "249"
+	},
+	{
+		"Locality": "Tianguistengo,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Tianguistengo,Pue.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Ticuitaco (Tocuitaco),Mich.",
+		"Code": "352"
+	},
+	{
+		"Locality": "Ticul,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Ticumán,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Tierra Blanca,Ver.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Tierra Blanca,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Tierra Colorada,Gro.",
+		"Code": "745"
+	},
+	{
+		"Locality": "Tierra y Libertad,Chis.",
+		"Code": "968"
+	},
+	{
+		"Locality": "Tierranueva,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Tihuatlán,Ver.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Tijuana,B.C.",
+		"Code": "664"
+	},
+	{
+		"Locality": "Tila,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Tilzapotla,Mor.",
+		"Code": "751"
+	},
+	{
+		"Locality": "Tinaja de Vargas,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Tinguindín,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Tiquicheo,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Tiripetio,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Tixkokob,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Tixtla,Gro.",
+		"Code": "754"
+	},
+	{
+		"Locality": "Tizapán El Alto,Jal.",
+		"Code": "376"
+	},
+	{
+		"Locality": "Tizayuca,Hgo.",
+		"Code": "779"
+	},
+	{
+		"Locality": "Tizimín,Yuc.",
+		"Code": "986"
+	},
+	{
+		"Locality": "Tlacoachistlahuaca,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Tlacojalpan,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Tlacolula de Matamoros,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Tlacolula,Ver.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Tlacotalpan,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Tlacote El Bajo,Qro.",
+		"Code": "442"
+	},
+	{
+		"Locality": "Tlacotepec,Gro.",
+		"Code": "736"
+	},
+	{
+		"Locality": "Tlacotepec,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Tlacotepec,Pue.",
+		"Code": "237"
+	},
+	{
+		"Locality": "Tlacuitapan,Jal.",
+		"Code": "395"
+	},
+	{
+		"Locality": "Tlachaloya 1a. Sección,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Tlachichila,Zac.",
+		"Code": "346"
+	},
+	{
+		"Locality": "Tlachichuca,Pue.",
+		"Code": "245"
+	},
+	{
+		"Locality": "Tlahualilo de Zaragoza,Dgo.",
+		"Code": "872"
+	},
+	{
+		"Locality": "Tlahuelilpan,Hgo.",
+		"Code": "763"
+	},
+	{
+		"Locality": "Tlahuelompa (San Francisco Tlahuelompa),Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Tlajomulco de Zuñiga,Jal.",
+		"Code": "379"
+	},
+	{
+		"Locality": "Tlalchapa,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Tlalixcoyan,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Tlalixtaquilla,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Tlalmanalco,Méx.",
+		"Code": "597"
+	},
+	{
+		"Locality": "Tlalnepantla,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Tlalnepantla,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Tlalpujahua,Mich.",
+		"Code": "711"
+	},
+	{
+		"Locality": "Tlaltenango,Zac.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Tlaltizapan,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Tlanchinol,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Tlapa de Comonfort,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Tlapacoyan,Ver.",
+		"Code": "225"
+	},
+	{
+		"Locality": "Tlapanaloya,Méx.",
+		"Code": "599"
+	},
+	{
+		"Locality": "Tlapehuala,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Tlaquepaque,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Tlaquiltenango,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Tlatlauquitepec,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Tlaxcala,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Tlaxco,Tlax.",
+		"Code": "241"
+	},
+	{
+		"Locality": "Tlaxcoapan,Hgo.",
+		"Code": "778"
+	},
+	{
+		"Locality": "Tlaxiaco,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Tlaxmalac,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Tlayacapan,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Tlayecac,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Tlazala de Fabela,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Tlazazalca,Mich.",
+		"Code": "471"
+	},
+	{
+		"Locality": "Tocumbo,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Tochimilco,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "Tochtepec,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Todos Santos,B.C.S.",
+		"Code": "612"
+	},
+	{
+		"Locality": "Tolcayuca,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Tolimán,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "Tolome,Ver.",
+		"Code": "285"
+	},
+	{
+		"Locality": "Toluca,Méx.",
+		"Code": "722"
+	},
+	{
+		"Locality": "Tomatlán,Jal.",
+		"Code": "322"
+	},
+	{
+		"Locality": "Tomatlán,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Tomelopitos,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Tomochi,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Tonalá,Chis.",
+		"Code": "966"
+	},
+	{
+		"Locality": "Tonalá,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Tonalapa del Sur,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Tonantzintla,Pue.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Tonatico,Méx.",
+		"Code": "721"
+	},
+	{
+		"Locality": "Tonaya,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "Tonila,Jal.",
+		"Code": "318"
+	},
+	{
+		"Locality": "Topia,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Topolobampo,Sin.",
+		"Code": "668"
+	},
+	{
+		"Locality": "Torreón de Cañas,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Torreón,Coah.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Totatiche,Jal.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Totolapa,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Tototlan,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Totutla,Ver.",
+		"Code": "273"
+	},
+	{
+		"Locality": "Trancoso,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Transfiguración,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Trapiche del Rosario,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Trejos,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Tres Alamos,Chih.",
+		"Code": "636"
+	},
+	{
+		"Locality": "Tres Picos,Chis.",
+		"Code": "994"
+	},
+	{
+		"Locality": "Tres Valles,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Tres Zapotes,Ver.",
+		"Code": "294"
+	},
+	{
+		"Locality": "Trincheras,Son.",
+		"Code": "641"
+	},
+	{
+		"Locality": "Trinidad de Viguera,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Tronconal,Pue.",
+		"Code": "244"
+	},
+	{
+		"Locality": "Troncones (Emiliano Zapata),Gro.",
+		"Code": "755"
+	},
+	{
+		"Locality": "Tula,Hgo.",
+		"Code": "773"
+	},
+	{
+		"Locality": "Tula,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Tulancingo,Hgo.",
+		"Code": "775"
+	},
+	{
+		"Locality": "Tulcingo de Valle,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Tulimán,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Tultepec,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Tultitlán de Mariano Escobedo,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Tulum,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Tumbiscatio de Ruiz,Mich.",
+		"Code": "452"
+	},
+	{
+		"Locality": "Tungareo,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Tunkas,Yuc.",
+		"Code": "991"
+	},
+	{
+		"Locality": "Turitzio,Mich.",
+		"Code": "435"
+	},
+	{
+		"Locality": "Tuxcacuesco,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "Tuxpan,Jal.",
+		"Code": "371"
+	},
+	{
+		"Locality": "Tuxpan,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Tuxpan,Nay.",
+		"Code": "319"
+	},
+	{
+		"Locality": "Tuxpan,Ver.",
+		"Code": "783"
+	},
+	{
+		"Locality": "Tuxtepec,Oax.",
+		"Code": "287"
+	},
+	{
+		"Locality": "Tuxtilla,Ver.",
+		"Code": "288"
+	},
+	{
+		"Locality": "Tuxtla Chico,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Tuxtla Gutiérrez,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Tuzamapan,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Tuzantla,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Tzicatlán,Pue.",
+		"Code": "275"
+	},
+	{
+		"Locality": "Tzimol,Chis.",
+		"Code": "963"
+	},
+	{
+		"Locality": "Tzintzingareo,Mich.",
+		"Code": "786"
+	},
+	{
+		"Locality": "Tziritzicuaro (Nativitas),Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Tzucacab,Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "U. H. J. Ma. Morelos y Pavón,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Uman,Yuc.",
+		"Code": "988"
+	},
+	{
+		"Locality": "Unión de Guadalupe,Jal.",
+		"Code": "372"
+	},
+	{
+		"Locality": "Unión de San Antonio,Jal.",
+		"Code": "395"
+	},
+	{
+		"Locality": "Unión de Tula,Jal.",
+		"Code": "316"
+	},
+	{
+		"Locality": "Unión Hidalgo,Oax.",
+		"Code": "971"
+	},
+	{
+		"Locality": "Unión Juárez,Chis.",
+		"Code": "962"
+	},
+	{
+		"Locality": "Ures,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Uriangato,Gto.",
+		"Code": "445"
+	},
+	{
+		"Locality": "Urique,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Ursulo Galván,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Uruachi,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Uruapan,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Uruapan,Mich.",
+		"Code": "452"
+	},
+	{
+		"Locality": "Uruetaro,Mich.",
+		"Code": "443"
+	},
+	{
+		"Locality": "Uspero (Reynosa),Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Uxmal (Hoteles),Yuc.",
+		"Code": "997"
+	},
+	{
+		"Locality": "Valadeces,Tamps.",
+		"Code": "891"
+	},
+	{
+		"Locality": "Valente Díaz,Ver.",
+		"Code": "229"
+	},
+	{
+		"Locality": "Valentín Gómez Farías,Chih.",
+		"Code": "652"
+	},
+	{
+		"Locality": "Valparaíso,Zac.",
+		"Code": "457"
+	},
+	{
+		"Locality": "Valtierrilla,Gto.",
+		"Code": "464"
+	},
+	{
+		"Locality": "Valladolid,Ags.",
+		"Code": "449"
+	},
+	{
+		"Locality": "Valladolid,Yuc.",
+		"Code": "985"
+	},
+	{
+		"Locality": "Valle de Banderas,Nay.",
+		"Code": "329"
+	},
+	{
+		"Locality": "Valle de Bravo,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Valle de Chalco,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Valle de Guadalupe,Jal.",
+		"Code": "347"
+	},
+	{
+		"Locality": "Valle de Ignacio Allende,Chih.",
+		"Code": "628"
+	},
+	{
+		"Locality": "Valle de Juárez (Jerahuaro),Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Valle de Juárez,Jal.",
+		"Code": "382"
+	},
+	{
+		"Locality": "Valle de la Trinidad,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Valle de las Palmas,B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Valle de Santiago,Gto.",
+		"Code": "456"
+	},
+	{
+		"Locality": "Valle de Zaragoza,Chih.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Valle Hermoso,Tamps.",
+		"Code": "894"
+	},
+	{
+		"Locality": "Vanegas,S.L.P.",
+		"Code": "488"
+	},
+	{
+		"Locality": "Vega de Alatorre,Ver.",
+		"Code": "235"
+	},
+	{
+		"Locality": "Veinte de Noviembre,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Velardeña,Dgo.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Venado,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Vencedores,Dgo.",
+		"Code": "674"
+	},
+	{
+		"Locality": "Venustiano Carranza (Cualata),Col.",
+		"Code": "314"
+	},
+	{
+		"Locality": "Venustiano Carranza (Santa María),B.C.",
+		"Code": "616"
+	},
+	{
+		"Locality": "Venustiano Carranza,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Venustiano Carranza,Mich.",
+		"Code": "353"
+	},
+	{
+		"Locality": "Venustiano Carranza,Pue.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Veracruz,Ver.",
+		"Code": "229"
+	},
+	{
+		"Locality": "Vicam (Switch),Son.",
+		"Code": "643"
+	},
+	{
+		"Locality": "Vicente Camalote,Oax.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Vicente Guerrero (Algodones),B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Vicente Guerrero,Chih.",
+		"Code": "635"
+	},
+	{
+		"Locality": "Vicente Guerrero,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "Vicente Guerrero,Tab.",
+		"Code": "913"
+	},
+	{
+		"Locality": "Victoria,Gto.",
+		"Code": "419"
+	},
+	{
+		"Locality": "Viesca,Coah.",
+		"Code": "671"
+	},
+	{
+		"Locality": "Villa Angel Flores,Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "Villa Adolfo López Mateos (El Tamarindo), Sin.",
+		"Code": "667"
+	},
+	{
+		"Locality": "Villa Ahumada y Anexas,Chih.",
+		"Code": "656"
+	},
+	{
+		"Locality": "Villa Alberto A. Alvarado A. (El Fundo Legal),B.C.",
+		"Code": "615"
+	},
+	{
+		"Locality": "Villa Aldama 1a. Sección,Tab.",
+		"Code": "933"
+	},
+	{
+		"Locality": "Villa Aldama,Chih.",
+		"Code": "614"
+	},
+	{
+		"Locality": "Villa Aldama,N.L.",
+		"Code": "829"
+	},
+	{
+		"Locality": "Villa Aldama,Tamps.",
+		"Code": "836"
+	},
+	{
+		"Locality": "Villa Avila Camacho (La Ceiba),Pue.",
+		"Code": "764"
+	},
+	{
+		"Locality": "Villa Azueta,Ver.",
+		"Code": "283"
+	},
+	{
+		"Locality": "Villa Benito Juárez (Campo Magallanes),Tab.",
+		"Code": "923"
+	},
+	{
+		"Locality": "Villa Cacalilao (Cacalilao),Ver.",
+		"Code": "846"
+	},
+	{
+		"Locality": "Villa Corona,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Villa Corzo,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "Villa de Acala,Chis.",
+		"Code": "961"
+	},
+	{
+		"Locality": "Villa de Arista,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Villa de Arriaga,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Villa de Contla (Contla),Jal.",
+		"Code": "358"
+	},
+	{
+		"Locality": "Villa de Cos,Zac.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Villa de Etla,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Villa de Juárez (San Antonio de las Minas),B.C.",
+		"Code": "646"
+	},
+	{
+		"Locality": "Villa de las Rosas,Chis.",
+		"Code": "992"
+	},
+	{
+		"Locality": "Villa de Méndez,Tamps.",
+		"Code": "841"
+	},
+	{
+		"Locality": "Villa de Paras,N.L.",
+		"Code": "892"
+	},
+	{
+		"Locality": "Villa de Ramos,S.L.P.",
+		"Code": "458"
+	},
+	{
+		"Locality": "Villa de Reyes,S.L.P.",
+		"Code": "485"
+	},
+	{
+		"Locality": "Villa de Tamazulapam del Progreso,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Villa del Carbón,Méx.",
+		"Code": "588"
+	},
+	{
+		"Locality": "Villa Emiliano Zapata (El Carrizal),Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Villa Flores,Chis.",
+		"Code": "965"
+	},
+	{
+		"Locality": "Villa Guerrero,Jal.",
+		"Code": "437"
+	},
+	{
+		"Locality": "Villa Guerrero,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Villa Gustavo Díaz Ordaz (Campo Plata),Sin.",
+		"Code": "697"
+	},
+	{
+		"Locality": "Villa Hermosa,B.C.",
+		"Code": "658"
+	},
+	{
+		"Locality": "Villa Hidalgo (El Cubo),Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Villa Hidalgo (El Nuevo),Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Villa Hidalgo,Jal.",
+		"Code": "495"
+	},
+	{
+		"Locality": "Villa Hidalgo,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Villa Hidalgo,Son.",
+		"Code": "634"
+	},
+	{
+		"Locality": "Villa Hidalgo,Zac.",
+		"Code": "496"
+	},
+	{
+		"Locality": "Villa Insurgentes (El Calabazal),Zac.",
+		"Code": "433"
+	},
+	{
+		"Locality": "Villa Insurgentes,B.C.S.",
+		"Code": "613"
+	},
+	{
+		"Locality": "Villa Jiménez,Mich.",
+		"Code": "454"
+	},
+	{
+		"Locality": "Villa Juárez (La Trozada),Nay.",
+		"Code": "323"
+	},
+	{
+		"Locality": "Villa Juárez(Campo Gob.),Sin.",
+		"Code": "672"
+	},
+	{
+		"Locality": "Villa Juárez,Dgo.",
+		"Code": "871"
+	},
+	{
+		"Locality": "Villa Juárez,S.L.P.",
+		"Code": "486"
+	},
+	{
+		"Locality": "Villa Lázaro Cárdenas (El Aserradero),Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "Villa Lázaro Cárdenas (La Uno),Pue.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Villa López,Chih.",
+		"Code": "629"
+	},
+	{
+		"Locality": "Villa Madero,Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Villa Mariano Matamoros,Tlax.",
+		"Code": "248"
+	},
+	{
+		"Locality": "Villa Morelos,Mich.",
+		"Code": "438"
+	},
+	{
+		"Locality": "Villa Nicolás Bravo,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Villa Nicolás Romero,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Villa Ocampo,Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Villa Orestes Pereyra (Rosario),Dgo.",
+		"Code": "649"
+	},
+	{
+		"Locality": "Villa Purificación,Jal.",
+		"Code": "357"
+	},
+	{
+		"Locality": "Villa Rafael Lara Grajales,Pue.",
+		"Code": "276"
+	},
+	{
+		"Locality": "Villa Tejeda,Ver.",
+		"Code": "274"
+	},
+	{
+		"Locality": "Villa Tejupam de la Unión,Oax.",
+		"Code": "953"
+	},
+	{
+		"Locality": "Villa Tezontepec,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Villa Unión,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Villa Unión,Dgo.",
+		"Code": "675"
+	},
+	{
+		"Locality": "Villa Unión,Sin.",
+		"Code": "669"
+	},
+	{
+		"Locality": "Villa Vicente Guerrero,Tlax.",
+		"Code": "222"
+	},
+	{
+		"Locality": "Villa Victoria,Méx.",
+		"Code": "726"
+	},
+	{
+		"Locality": "Villagrán,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Villagrán,Tamps.",
+		"Code": "835"
+	},
+	{
+		"Locality": "Villahermosa,Tab.",
+		"Code": "993"
+	},
+	{
+		"Locality": "Villamar,Mich.",
+		"Code": "383"
+	},
+	{
+		"Locality": "Villanueva,Zac.",
+		"Code": "499"
+	},
+	{
+		"Locality": "Villas Campestres,N.L.",
+		"Code": "81"
+	},
+	{
+		"Locality": "Villas de Irapuato,Gto.",
+		"Code": "462"
+	},
+	{
+		"Locality": "Vista Hermosa (Santa Cruz del Cortijo),Jal.",
+		"Code": "358"
+	},
+	{
+		"Locality": "Vista Hermosa,Mich.",
+		"Code": "328"
+	},
+	{
+		"Locality": "Vizarrón de Montes,Qro.",
+		"Code": "441"
+	},
+	{
+		"Locality": "Xala,Méx.",
+		"Code": "592"
+	},
+	{
+		"Locality": "Xalatlaco,Méx.",
+		"Code": "713"
+	},
+	{
+		"Locality": "Xalisco,Nay.",
+		"Code": "311"
+	},
+	{
+		"Locality": "Xaloxtoc,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Xaltianguis,Gro.",
+		"Code": "744"
+	},
+	{
+		"Locality": "Xcaret,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Xico,Méx.",
+		"Code": "55"
+	},
+	{
+		"Locality": "Xico,Ver.",
+		"Code": "228"
+	},
+	{
+		"Locality": "Xicoténcatl,Tamps.",
+		"Code": "832"
+	},
+	{
+		"Locality": "Xicotepec de Juárez,Pue.",
+		"Code": "764"
+	},
+	{
+		"Locality": "Xilitla,S.L.P.",
+		"Code": "489"
+	},
+	{
+		"Locality": "Xmatkuil,Yuc.",
+		"Code": "999"
+	},
+	{
+		"Locality": "Xochihuehuetlán,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Xochipala,Gro.",
+		"Code": "747"
+	},
+	{
+		"Locality": "Xochistlahuaca,Gro.",
+		"Code": "741"
+	},
+	{
+		"Locality": "Xochitepec,Mor.",
+		"Code": "777"
+	},
+	{
+		"Locality": "Xochitlán,Hgo.",
+		"Code": "738"
+	},
+	{
+		"Locality": "Xometla,Méx.",
+		"Code": "594"
+	},
+	{
+		"Locality": "Xoxocotla,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Xpu-ha,Q.Roo",
+		"Code": "984"
+	},
+	{
+		"Locality": "Xpujil,Camp.",
+		"Code": "983"
+	},
+	{
+		"Locality": "Yahualica,Jal.",
+		"Code": "344"
+	},
+	{
+		"Locality": "Yajalón,Chis.",
+		"Code": "919"
+	},
+	{
+		"Locality": "Yanga,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Yautepec,Mor.",
+		"Code": "735"
+	},
+	{
+		"Locality": "Yávaros (Isla Las Viejas),Son.",
+		"Code": "647"
+	},
+	{
+		"Locality": "Yecapixtla,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Yecora,Son.",
+		"Code": "623"
+	},
+	{
+		"Locality": "Yecuatla,Ver.",
+		"Code": "279"
+	},
+	{
+		"Locality": "Yolotepec,Hgo.",
+		"Code": "772"
+	},
+	{
+		"Locality": "Yoricostio (La Villita),Mich.",
+		"Code": "459"
+	},
+	{
+		"Locality": "Yurécuaro,Mich.",
+		"Code": "356"
+	},
+	{
+		"Locality": "Yuriria,Gto.",
+		"Code": "445"
+	},
+	{
+		"Locality": "Yustis,Gto.",
+		"Code": "461"
+	},
+	{
+		"Locality": "Zaachila,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Zacacoyuca,Gro.",
+		"Code": "733"
+	},
+	{
+		"Locality": "Zacamulpa,Méx.",
+		"Code": "729"
+	},
+	{
+		"Locality": "Zacan,Mich.",
+		"Code": "354"
+	},
+	{
+		"Locality": "Zacapala,Pue.",
+		"Code": "224"
+	},
+	{
+		"Locality": "Zacapalco,Gro.",
+		"Code": "727"
+	},
+	{
+		"Locality": "Zacapoaxtla,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Zacapu,Mich.",
+		"Code": "436"
+	},
+	{
+		"Locality": "Zacapuato,Gro.",
+		"Code": "732"
+	},
+	{
+		"Locality": "Zacate Colorado,Ver.",
+		"Code": "746"
+	},
+	{
+		"Locality": "Zacatecas,Zac.",
+		"Code": "492"
+	},
+	{
+		"Locality": "Zacatelco,Tlax.",
+		"Code": "246"
+	},
+	{
+		"Locality": "Zacatepec de Hidalgo,Mor.",
+		"Code": "734"
+	},
+	{
+		"Locality": "Zacatipa,Gro.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Zacatlán,Pue.",
+		"Code": "797"
+	},
+	{
+		"Locality": "Zacoalco,Jal.",
+		"Code": "326"
+	},
+	{
+		"Locality": "Zacualpan,Gro.",
+		"Code": "742"
+	},
+	{
+		"Locality": "Zacualpan,Mor.",
+		"Code": "731"
+	},
+	{
+		"Locality": "Zacualpan,Nay.",
+		"Code": "327"
+	},
+	{
+		"Locality": "Zacualtipán,Hgo.",
+		"Code": "774"
+	},
+	{
+		"Locality": "Zamora,Mich.",
+		"Code": "351"
+	},
+	{
+		"Locality": "Zapopan,Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Zapote de Adjuntas,Gto.",
+		"Code": "432"
+	},
+	{
+		"Locality": "Zapote de Peralta,Gto.",
+		"Code": "429"
+	},
+	{
+		"Locality": "Zapote del Valle (Zapote de Santa Cruz),Jal.",
+		"Code": "33"
+	},
+	{
+		"Locality": "Zapotiltic,Jal.",
+		"Code": "341"
+	},
+	{
+		"Locality": "Zapotitán de Hidalgo,Jal.",
+		"Code": "387"
+	},
+	{
+		"Locality": "Zapotitlán de Vadillo,Jal.",
+		"Code": "343"
+	},
+	{
+		"Locality": "Zapotitlán Lagunas,Oax.",
+		"Code": "757"
+	},
+	{
+		"Locality": "Zapotitlán Salinas,Pue.",
+		"Code": "237"
+	},
+	{
+		"Locality": "Zapotitos,Gto.",
+		"Code": "411"
+	},
+	{
+		"Locality": "Zapotlán de Juárez,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Zapotlán del Rey,Jal.",
+		"Code": "391"
+	},
+	{
+		"Locality": "Zapotlanejo,Jal.",
+		"Code": "373"
+	},
+	{
+		"Locality": "Zaragoza,Coah.",
+		"Code": "862"
+	},
+	{
+		"Locality": "Zaragoza,Mich.",
+		"Code": "352"
+	},
+	{
+		"Locality": "Zaragoza,Pue.",
+		"Code": "233"
+	},
+	{
+		"Locality": "Zempoala,Hgo.",
+		"Code": "743"
+	},
+	{
+		"Locality": "Zempoala,Ver.",
+		"Code": "296"
+	},
+	{
+		"Locality": "Zicuiran,Mich.",
+		"Code": "425"
+	},
+	{
+		"Locality": "Zihuatanejo,Gro.",
+		"Code": "755"
+	},
+	{
+		"Locality": "Zimapán,Hgo.",
+		"Code": "759"
+	},
+	{
+		"Locality": "Zimatlán de Alvarez,Oax.",
+		"Code": "951"
+	},
+	{
+		"Locality": "Zinaparo,Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "Zinapécuaro,Mich.",
+		"Code": "451"
+	},
+	{
+		"Locality": "Ziquitaro,Mich.",
+		"Code": "359"
+	},
+	{
+		"Locality": "Ziracuaretiro,Mich.",
+		"Code": "423"
+	},
+	{
+		"Locality": "Zirahuén,Mich.",
+		"Code": "434"
+	},
+	{
+		"Locality": "Zirándaro,Gro.",
+		"Code": "767"
+	},
+	{
+		"Locality": "Zitacuaro,Mich.",
+		"Code": "715"
+	},
+	{
+		"Locality": "Zitlaltepec,Méx.",
+		"Code": "591"
+	},
+	{
+		"Locality": "Zitlaltepec,Tlax.",
+		"Code": "223"
+	},
+	{
+		"Locality": "Zongolica,Ver.",
+		"Code": "278"
+	},
+	{
+		"Locality": "Zozocolco de Hidalgo,Ver.",
+		"Code": "784"
+	},
+	{
+		"Locality": "Zumpahuacán,Méx.",
+		"Code": "714"
+	},
+	{
+		"Locality": "Zumpango del Río,Gro.",
+		"Code": "747"
+	},
+	{
+		"Locality": "Zumpango,Méx.",
+		"Code": "591"
+	}
+]

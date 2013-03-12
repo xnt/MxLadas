@@ -1,0 +1,14 @@
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\priconfig.xml.intermediate
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\layout.resfiles.intermediate
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\resources.resfiles.intermediate
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\pri.resfiles.intermediate
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bin\Debug\resources.pri
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bin\Debug\AppxManifest.xml
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bin\Debug\MxLadas.build.appxrecipe
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\priconfig.xml
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\layout.resfiles
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\resources.resfiles
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\pri.resfiles
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\LanguageQualifiers.txt
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bld\Debug\ProjectArchitectures.txt
+C:\Users\viplata\Documents\Visual Studio 2012\Projects\MxLadas\bin\Debug\resources\codes.json

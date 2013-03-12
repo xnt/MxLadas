@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="41948VicentePlata.MexicanLongDistanceCodes" Version="1.0.0.1" Publisher="CN=5F8D253E-69F6-4113-BB5F-2266D94D536E" />
+  <Properties>
+    <DisplayName>ms-resource:appName</DisplayName>
+    <Description>ms-resource:appDescription</Description>
+    <PublisherDisplayName>Vicente Plata</PublisherDisplayName>
+    <Logo>images\logo_50x50.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="ms-resource:appName" Logo="images\logo_150x150.png" SmallLogo="images\logo_30x30.png" Description="ms-resource:appDescription" ForegroundText="light" BackgroundColor="#464646" ToastCapable="false">
+        <DefaultTile ShowName="allLogos" ShortName="MxLadas" />
+        <SplashScreen Image="images\splashscreen.png" />
+      </VisualElements>
+    </Application>
+  </Applications>
+</Package>

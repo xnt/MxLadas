@@ -1,0 +1,10 @@
+﻿// For details on localizing a Windows app, see: http://go.microsoft.com/fwlink/?LinkId=212836
+
+{
+   "appName"               : "Códigos LADA en México",
+    "instructions"          : "Escribe el código (ej. 555) o localidad (ej. Durango)",
+    "loading"               : "Cargando...",
+    "search"                : "Buscar",
+    "results"               : "Resultados",
+    "appDescription"        : "Imagina que acabas de ver tu registro de llamadas. Hay un número que no conoces. \"Hmmm... '+52, es de México... Igual y es el tío Pedro, de Zacatecas. O tal vez mi primo Juan que está de visita en la Ciudad de México.\"\n¡Para eso creamos'Códigos LADA en México'! Esta apps te da:\n* búsqueda de 2 vías - ¿Sólo te sabes el número? Está bien. ¿Sólo sabes la Ciudad? ¡También!\n* Búsqueda parcial - Algunas ciudades tienen 2, 3 o 4 dígitos en el código. ¡No sufras! Solo pon una parte y nos encargamos del resto. ¿Era 'Durango', 'Victoria de Durango'? Escribe 'Dur' ¡y ya estás!\n* Sin ads, sin límites, sin cosas feas. Disfruta tu nueva máquina con Win8 y esta app app. ¡Gracias! Soporte - http://facebook.com/chentadas"
+}

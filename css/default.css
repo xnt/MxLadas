@@ -1,0 +1,33 @@
+﻿body {
+}
+
+.win-listview {
+    height: 500px;
+    width: 700px;
+    border: 2px solid gray;
+}
+
+.win-template {
+    width: 300px;
+}
+
+#searchTerm {
+    width: 500px;
+}
+
+.homepage {
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}
